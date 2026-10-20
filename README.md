@@ -1,6 +1,6 @@
 # Rocket Squadron
 
-<!-- VIDEO: drag rocket-squadron.mp4 here -->
+https://github.com/user-attachments/assets/380118aa-a8b0-481e-a557-1c7b45fd79dd
 
 An on-rails jetpack shooter built entirely with the [Rive CLI](https://rive.app/docs/cli/overview). The
 simulation and the renderer are written in AnimaScript, the cel-shaded 3D world is drawn with WGSL shaders on
