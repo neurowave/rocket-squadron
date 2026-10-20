@@ -1,0 +1,2416 @@
+<Rive version="1" kind="fragment">
+    <Artboard defaultStateMachineId="3:6590" viewModelId="3:500" viewModelInstanceId="3:599" isComponent="true" width="1920" height="1080" styleId="3:6501" y="9800" name="FrameShell" id="3:6500">
+        <LayoutComponentStyle name="FrameShell Style" id="3:6501"/>
+        <LayoutComponent width="100" height="100" styleId="3:6523" name="Marks" id="3:6522">
+            <LayoutComponentStyle positionLeftUnitsValue="points" positionRightUnitsValue="points" positionTopUnitsValue="points" positionBottomUnitsValue="points" positionTypeValue="absolute" widthUnitsValue="auto" heightUnitsValue="auto" name="Marks Style" id="3:6523"/>
+            <LayoutComponent styleId="3:6511" name="RegTL" id="3:6510">
+                <LayoutComponentStyle positionLeft="34" positionTop="12" positionLeftUnitsValue="points" positionTopUnitsValue="percent" positionTypeValue="absolute" name="RegTL Style" id="3:6511">
+                    <DataBindContext sourcePathIds="3:500-3:564" propertyKey="516" converterId="3:9713" id="0:208541"/>
+                </LayoutComponentStyle>
+                <Node name="Scale" id="0:208542">
+                    <Node name="Reg" id="3:6512">
+                        <Shape name="Cross" id="0:208545">
+                            <PointsPath name="P" id="0:208546">
+                                <StraightVertex x="-14.4" id="0:208547"/>
+                                <StraightVertex x="14.4" id="0:208548"/>
+                            </PointsPath>
+                            <PointsPath name="P" id="0:208549">
+                                <StraightVertex y="-14.4" id="0:208550"/>
+                                <StraightVertex y="14.4" id="0:208551"/>
+                            </PointsPath>
+                            <Stroke thickness="2" join="round" name="Stroke" id="0:208552">
+                                <SolidColor colorValue="FF2433B5" name="C" id="0:208553"/>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Ring" id="0:208554">
+                            <Ellipse width="18" height="18" name="E" id="0:208555"/>
+                            <Stroke thickness="2" cap="round" join="round" name="Stroke" id="0:208556">
+                                <SolidColor colorValue="FF2433B5" name="C" id="0:208557"/>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Dot" id="0:208558">
+                            <Ellipse width="6.3000002" height="6.3000002" name="E" id="0:208559"/>
+                            <Fill name="Fill" id="0:208560">
+                                <SolidColor colorValue="FF2433B5" name="C" id="0:208561"/>
+                            </Fill>
+                        </Shape>
+                    </Node>
+                    <DataBindContext sourcePathIds="3:500-3:564" propertyKey="17" converterId="3:9712" id="0:208543"/>
+                    <DataBindContext sourcePathIds="3:500-3:564" propertyKey="16" converterId="3:9712" id="0:208544"/>
+                </Node>
+            </LayoutComponent>
+            <LayoutComponent styleId="3:6514" name="RegTR" id="3:6513">
+                <LayoutComponentStyle positionRight="34" positionTop="12" positionRightUnitsValue="points" positionTopUnitsValue="percent" positionTypeValue="absolute" name="RegTR Style" id="3:6514">
+                    <DataBindContext sourcePathIds="3:500-3:564" propertyKey="517" converterId="3:9713" id="0:208562"/>
+                </LayoutComponentStyle>
+                <Node name="Scale" id="0:208563">
+                    <Node name="Reg" id="3:6515">
+                        <Shape name="Cross" id="0:208566">
+                            <PointsPath name="P" id="0:208567">
+                                <StraightVertex x="-14.4" id="0:208568"/>
+                                <StraightVertex x="14.4" id="0:208569"/>
+                            </PointsPath>
+                            <PointsPath name="P" id="0:208570">
+                                <StraightVertex y="-14.4" id="0:208571"/>
+                                <StraightVertex y="14.4" id="0:208572"/>
+                            </PointsPath>
+                            <Stroke thickness="2" join="round" name="Stroke" id="0:208573">
+                                <SolidColor colorValue="FF2433B5" name="C" id="0:208574"/>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Ring" id="0:208575">
+                            <Ellipse width="18" height="18" name="E" id="0:208576"/>
+                            <Stroke thickness="2" cap="round" join="round" name="Stroke" id="0:208577">
+                                <SolidColor colorValue="FF2433B5" name="C" id="0:208578"/>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Dot" id="0:208579">
+                            <Ellipse width="6.3000002" height="6.3000002" name="E" id="0:208580"/>
+                            <Fill name="Fill" id="0:208581">
+                                <SolidColor colorValue="FF2433B5" name="C" id="0:208582"/>
+                            </Fill>
+                        </Shape>
+                    </Node>
+                    <DataBindContext sourcePathIds="3:500-3:564" propertyKey="17" converterId="3:9712" id="0:208564"/>
+                    <DataBindContext sourcePathIds="3:500-3:564" propertyKey="16" converterId="3:9712" id="0:208565"/>
+                </Node>
+            </LayoutComponent>
+            <LayoutComponent styleId="3:6517" name="RegBL" id="3:6516">
+                <LayoutComponentStyle positionLeft="34" positionBottom="12" positionLeftUnitsValue="points" positionBottomUnitsValue="percent" positionTypeValue="absolute" name="RegBL Style" id="3:6517">
+                    <DataBindContext sourcePathIds="3:500-3:564" propertyKey="516" converterId="3:9713" id="0:208583"/>
+                </LayoutComponentStyle>
+                <Node name="Scale" id="0:208584">
+                    <Node name="Reg" id="3:6518">
+                        <Shape name="Cross" id="0:208587">
+                            <PointsPath name="P" id="0:208588">
+                                <StraightVertex x="-14.4" id="0:208589"/>
+                                <StraightVertex x="14.4" id="0:208590"/>
+                            </PointsPath>
+                            <PointsPath name="P" id="0:208591">
+                                <StraightVertex y="-14.4" id="0:208592"/>
+                                <StraightVertex y="14.4" id="0:208593"/>
+                            </PointsPath>
+                            <Stroke thickness="2" join="round" name="Stroke" id="0:208594">
+                                <SolidColor colorValue="FF2433B5" name="C" id="0:208595"/>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Ring" id="0:208596">
+                            <Ellipse width="18" height="18" name="E" id="0:208597"/>
+                            <Stroke thickness="2" cap="round" join="round" name="Stroke" id="0:208598">
+                                <SolidColor colorValue="FF2433B5" name="C" id="0:208599"/>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Dot" id="0:208600">
+                            <Ellipse width="6.3000002" height="6.3000002" name="E" id="0:208601"/>
+                            <Fill name="Fill" id="0:208602">
+                                <SolidColor colorValue="FF2433B5" name="C" id="0:208603"/>
+                            </Fill>
+                        </Shape>
+                    </Node>
+                    <DataBindContext sourcePathIds="3:500-3:564" propertyKey="17" converterId="3:9712" id="0:208585"/>
+                    <DataBindContext sourcePathIds="3:500-3:564" propertyKey="16" converterId="3:9712" id="0:208586"/>
+                </Node>
+            </LayoutComponent>
+            <LayoutComponent styleId="3:6520" name="RegBR" id="3:6519">
+                <LayoutComponentStyle positionRight="34" positionBottom="12" positionRightUnitsValue="points" positionBottomUnitsValue="percent" positionTypeValue="absolute" name="RegBR Style" id="3:6520">
+                    <DataBindContext sourcePathIds="3:500-3:564" propertyKey="517" converterId="3:9713" id="0:208604"/>
+                </LayoutComponentStyle>
+                <Node name="Scale" id="0:208605">
+                    <Node name="Reg" id="3:6521">
+                        <Shape name="Cross" id="0:208608">
+                            <PointsPath name="P" id="0:208609">
+                                <StraightVertex x="-14.4" id="0:208610"/>
+                                <StraightVertex x="14.4" id="0:208611"/>
+                            </PointsPath>
+                            <PointsPath name="P" id="0:208612">
+                                <StraightVertex y="-14.4" id="0:208613"/>
+                                <StraightVertex y="14.4" id="0:208614"/>
+                            </PointsPath>
+                            <Stroke thickness="2" join="round" name="Stroke" id="0:208615">
+                                <SolidColor colorValue="FF2433B5" name="C" id="0:208616"/>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Ring" id="0:208617">
+                            <Ellipse width="18" height="18" name="E" id="0:208618"/>
+                            <Stroke thickness="2" cap="round" join="round" name="Stroke" id="0:208619">
+                                <SolidColor colorValue="FF2433B5" name="C" id="0:208620"/>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Dot" id="0:208621">
+                            <Ellipse width="6.3000002" height="6.3000002" name="E" id="0:208622"/>
+                            <Fill name="Fill" id="0:208623">
+                                <SolidColor colorValue="FF2433B5" name="C" id="0:208624"/>
+                            </Fill>
+                        </Shape>
+                    </Node>
+                    <DataBindContext sourcePathIds="3:500-3:564" propertyKey="17" converterId="3:9712" id="0:208606"/>
+                    <DataBindContext sourcePathIds="3:500-3:564" propertyKey="16" converterId="3:9712" id="0:208607"/>
+                </Node>
+            </LayoutComponent>
+        </LayoutComponent>
+        <LayoutComponent width="100" styleId="3:6503" name="BandTop" id="3:6502">
+            <LayoutComponentStyle positionLeftUnitsValue="points" positionRightUnitsValue="points" positionTopUnitsValue="points" positionTypeValue="absolute" widthUnitsValue="auto" heightUnitsValue="percent" name="BandTop Style" id="3:6503"/>
+            <Fill name="Grain" id="0:208625">
+                <SolidColor colorValue="FFF2ECDE" name="C" id="0:208626"/>
+                <PaintImage imageAssetId="3:9901" imageSamplerWrapX="2" imageSamplerWrapY="2" imageSizeMode="1" name="Img" id="0:208627"/>
+            </Fill>
+            <Fill name="Fill" id="0:208628">
+                <SolidColor colorValue="FFF2ECDE" name="C" id="0:208629"/>
+            </Fill>
+            <LayoutComponent width="100" height="3" styleId="3:6505" name="Rule" id="3:6504">
+                <LayoutComponentStyle positionLeftUnitsValue="points" positionRightUnitsValue="points" positionBottomUnitsValue="points" positionTypeValue="absolute" widthUnitsValue="auto" name="Rule Style" id="3:6505"/>
+                <Fill name="Fill" id="0:208630">
+                    <SolidColor colorValue="FF2433B5" name="C" id="0:208631"/>
+                </Fill>
+            </LayoutComponent>
+        </LayoutComponent>
+        <LayoutComponent width="100" styleId="3:6507" name="BandBottom" id="3:6506">
+            <LayoutComponentStyle positionLeftUnitsValue="points" positionRightUnitsValue="points" positionBottomUnitsValue="points" positionTypeValue="absolute" widthUnitsValue="auto" heightUnitsValue="percent" name="BandBottom Style" id="3:6507"/>
+            <Fill name="Grain" id="0:208632">
+                <SolidColor colorValue="FFF2ECDE" name="C" id="0:208633"/>
+                <PaintImage imageAssetId="3:9901" imageSamplerWrapX="2" imageSamplerWrapY="2" imageSizeMode="1" name="Img" id="0:208634"/>
+            </Fill>
+            <Fill name="Fill" id="0:208635">
+                <SolidColor colorValue="FFF2ECDE" name="C" id="0:208636"/>
+            </Fill>
+            <LayoutComponent width="100" height="3" styleId="3:6509" name="Rule" id="3:6508">
+                <LayoutComponentStyle positionLeftUnitsValue="points" positionRightUnitsValue="points" positionTopUnitsValue="points" positionTypeValue="absolute" widthUnitsValue="auto" name="Rule Style" id="3:6509"/>
+                <Fill name="Fill" id="0:208637">
+                    <SolidColor colorValue="FF2433B5" name="C" id="0:208638"/>
+                </Fill>
+            </LayoutComponent>
+        </LayoutComponent>
+        <StateMachine name="Frame" id="3:6590">
+            <StateMachineLayer name="Frame" id="3:6532">
+                <AnyState x="-160" y="-160" id="0:208639"/>
+                <ExitState x="-160" y="260" id="0:208640"/>
+                <EntryState x="-160" id="0:208641">
+                    <StateTransition stateToId="3:6530" id="0:208642"/>
+                </EntryState>
+                <AnimationState animationId="3:6524" x="160" id="3:6528">
+                    <StateTransition stateToId="3:6529" id="0:208643">
+                        <TransitionViewModelCondition id="0:208644">
+                            <TransitionPropertyViewModelComparator id="0:208645">
+                                <BindablePropertyEnum id="0:208646">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:208647"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:601" id="0:208648"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6529" id="0:208649">
+                        <TransitionViewModelCondition id="0:208650">
+                            <TransitionPropertyViewModelComparator id="0:208651">
+                                <BindablePropertyEnum id="0:208652">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:208653"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:602" id="0:208654"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6529" id="0:208655">
+                        <TransitionViewModelCondition id="0:208656">
+                            <TransitionPropertyViewModelComparator id="0:208657">
+                                <BindablePropertyEnum id="0:208658">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:208659"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:605" id="0:208660"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6529" id="0:208661">
+                        <TransitionViewModelCondition id="0:208662">
+                            <TransitionPropertyViewModelComparator id="0:208663">
+                                <BindablePropertyEnum id="0:208664">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:208665"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:606" id="0:208666"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                </AnimationState>
+                <AnimationState animationId="3:6525" x="360" id="3:6529">
+                    <StateTransition stateToId="3:6530" enableExitTime="true" exitTimeIsPercetange="true" exitTime="100" id="0:208667"/>
+                    <StateTransition stateToId="3:6531" id="0:208668">
+                        <TransitionViewModelCondition id="0:208669">
+                            <TransitionPropertyViewModelComparator id="0:208670">
+                                <BindablePropertyEnum id="0:208671">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:208672"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:603" id="0:208673"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6531" id="0:208674">
+                        <TransitionViewModelCondition id="0:208675">
+                            <TransitionPropertyViewModelComparator id="0:208676">
+                                <BindablePropertyEnum id="0:208677">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:208678"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:604" id="0:208679"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                </AnimationState>
+                <AnimationState animationId="3:6526" x="560" id="3:6530">
+                    <StateTransition stateToId="3:6531" id="0:208680">
+                        <TransitionViewModelCondition id="0:208681">
+                            <TransitionPropertyViewModelComparator id="0:208682">
+                                <BindablePropertyEnum id="0:208683">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:208684"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:603" id="0:208685"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6531" id="0:208686">
+                        <TransitionViewModelCondition id="0:208687">
+                            <TransitionPropertyViewModelComparator id="0:208688">
+                                <BindablePropertyEnum id="0:208689">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:208690"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:604" id="0:208691"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                </AnimationState>
+                <AnimationState animationId="3:6527" x="360" y="180" id="3:6531">
+                    <StateTransition stateToId="3:6528" enableExitTime="true" exitTimeIsPercetange="true" exitTime="100" id="0:208692"/>
+                    <StateTransition stateToId="3:6529" id="0:208693">
+                        <TransitionViewModelCondition id="0:208694">
+                            <TransitionPropertyViewModelComparator id="0:208695">
+                                <BindablePropertyEnum id="0:208696">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:208697"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:601" id="0:208698"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6529" id="0:208699">
+                        <TransitionViewModelCondition id="0:208700">
+                            <TransitionPropertyViewModelComparator id="0:208701">
+                                <BindablePropertyEnum id="0:208702">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:208703"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:602" id="0:208704"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6529" id="0:208705">
+                        <TransitionViewModelCondition id="0:208706">
+                            <TransitionPropertyViewModelComparator id="0:208707">
+                                <BindablePropertyEnum id="0:208708">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:208709"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:605" id="0:208710"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6529" id="0:208711">
+                        <TransitionViewModelCondition id="0:208712">
+                            <TransitionPropertyViewModelComparator id="0:208713">
+                                <BindablePropertyEnum id="0:208714">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:208715"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:606" id="0:208716"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                </AnimationState>
+            </StateMachineLayer>
+        </StateMachine>
+        <LinearAnimation duration="1" name="FrameHidden" id="3:6524">
+            <KeyedObject objectId="3:6502" id="0:208717">
+                <KeyedProperty property="height" id="0:208718">
+                    <KeyFrameDouble id="0:208719"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6506" id="0:208720">
+                <KeyedProperty property="height" id="0:208721">
+                    <KeyFrameDouble id="0:208722"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6522" id="0:208723">
+                <KeyedProperty property="opacity" id="0:208724">
+                    <KeyFrameDouble id="0:208725"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+        <LinearAnimation duration="30" name="FrameIn" id="3:6525">
+            <KeyedObject objectId="3:6502" id="0:208726">
+                <KeyedProperty property="height" id="0:208727">
+                    <KeyFrameDouble interpolationType="cubic" id="0:208728">
+                        <CubicEaseInterpolator x1="0.16" y1="1" x2="0.30000001" id="0:208729"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="12.2" interpolationType="linear" frame="26" id="0:208730"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6506" id="0:208731">
+                <KeyedProperty property="height" id="0:208732">
+                    <KeyFrameDouble interpolationType="cubic" id="0:208733">
+                        <CubicEaseInterpolator x1="0.16" y1="1" x2="0.30000001" id="0:208734"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="12.2" interpolationType="linear" frame="26" id="0:208735"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6522" id="0:208736">
+                <KeyedProperty property="opacity" id="0:208737">
+                    <KeyFrameDouble interpolationType="linear" frame="10" id="0:208738"/>
+                    <KeyFrameDouble value="1" interpolationType="linear" frame="30" id="0:208739"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6512" id="0:208740">
+                <KeyedProperty property="rotation" id="0:208741">
+                    <KeyFrameDouble value="-1.6" interpolationType="cubic" frame="8" id="0:208742">
+                        <CubicEaseInterpolator x1="0.16" y1="1" x2="0.30000001" id="0:208743"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble interpolationType="linear" frame="30" id="0:208744"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6515" id="0:208745">
+                <KeyedProperty property="rotation" id="0:208746">
+                    <KeyFrameDouble value="-1.6" interpolationType="cubic" frame="8" id="0:208747">
+                        <CubicEaseInterpolator x1="0.16" y1="1" x2="0.30000001" id="0:208748"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble interpolationType="linear" frame="30" id="0:208749"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6518" id="0:208750">
+                <KeyedProperty property="rotation" id="0:208751">
+                    <KeyFrameDouble value="-1.6" interpolationType="cubic" frame="8" id="0:208752">
+                        <CubicEaseInterpolator x1="0.16" y1="1" x2="0.30000001" id="0:208753"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble interpolationType="linear" frame="30" id="0:208754"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6521" id="0:208755">
+                <KeyedProperty property="rotation" id="0:208756">
+                    <KeyFrameDouble value="-1.6" interpolationType="cubic" frame="8" id="0:208757">
+                        <CubicEaseInterpolator x1="0.16" y1="1" x2="0.30000001" id="0:208758"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble interpolationType="linear" frame="30" id="0:208759"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+        <LinearAnimation duration="1" name="FrameIdle" id="3:6526">
+            <KeyedObject objectId="3:6502" id="0:208760">
+                <KeyedProperty property="height" id="0:208761">
+                    <KeyFrameDouble value="12.2" id="0:208762"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6506" id="0:208763">
+                <KeyedProperty property="height" id="0:208764">
+                    <KeyFrameDouble value="12.2" id="0:208765"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6522" id="0:208766">
+                <KeyedProperty property="opacity" id="0:208767">
+                    <KeyFrameDouble value="1" id="0:208768"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+        <LinearAnimation duration="84" name="FrameOut" id="3:6527">
+            <KeyedObject objectId="3:6502" id="0:208769">
+                <KeyedProperty property="height" id="0:208770">
+                    <KeyFrameDouble value="12.2" interpolationType="cubic" id="0:208771">
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:208772"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble interpolationType="linear" frame="80" id="0:208773"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6506" id="0:208774">
+                <KeyedProperty property="height" id="0:208775">
+                    <KeyFrameDouble value="12.2" interpolationType="cubic" id="0:208776">
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:208777"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble interpolationType="linear" frame="80" id="0:208778"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6522" id="0:208779">
+                <KeyedProperty property="opacity" id="0:208780">
+                    <KeyFrameDouble value="1" interpolationType="linear" id="0:208781"/>
+                    <KeyFrameDouble interpolationType="linear" frame="12" id="0:208782"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+    </Artboard>
+    <Artboard defaultStateMachineId="3:6890" viewModelId="3:500" viewModelInstanceId="3:599" isComponent="true" width="1920" height="1080" styleId="3:6601" x="2100" y="9800" name="PrintScreen" id="3:6600">
+        <LayoutComponentStyle name="PrintScreen Style" id="3:6601"/>
+        <Node name="Root" id="3:6602">
+            <Node x="-1100" y="540" rotation="0.30000001" name="Roller" id="3:6608">
+                <Node name="Band" id="3:6610">
+                    <Shape x="6" name="Edge" id="0:208785">
+                        <Rectangle width="10" height="3400" name="R" id="0:208786"/>
+                        <Fill name="Fill" id="0:208787">
+                            <SolidColor colorValue="FFF2ECDE" name="C" id="0:208788"/>
+                        </Fill>
+                    </Shape>
+                    <Shape x="-8" name="Spot" id="0:208789">
+                        <Rectangle width="16" height="3400" name="R" id="0:208790"/>
+                        <Fill name="Fill" id="0:208791">
+                            <SolidColor colorValue="FFD8245F" name="C" id="0:208792"/>
+                        </Fill>
+                    </Shape>
+                    <Shape x="-16" name="Ink" id="0:208793">
+                        <Rectangle width="150" height="3400" originX="1" name="R" id="0:208794"/>
+                        <Fill name="Fill" id="0:208795">
+                            <SolidColor colorValue="FF17207F" name="C" id="0:208796"/>
+                        </Fill>
+                    </Shape>
+                    <Node x="-360" rotation="-1.5707999" name="Dots" id="0:208797">
+                        <Shape name="Row" id="0:208798">
+                            <PointsPath name="P" id="0:208799">
+                                <StraightVertex x="-1700" y="-210" id="0:208800"/>
+                                <StraightVertex x="1700" y="-210" id="0:208801"/>
+                            </PointsPath>
+                            <Stroke cap="round" join="round" name="Stroke" id="0:208802">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208803"/>
+                                <DashPath name="Dash" id="0:208804">
+                                    <Dash length="0.001" name="On" id="0:208805"/>
+                                    <Dash length="24" name="Off" id="0:208806"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208807">
+                            <PointsPath name="P" id="0:208808">
+                                <StraightVertex x="-1688" y="-186" id="0:208809"/>
+                                <StraightVertex x="1700" y="-186" id="0:208810"/>
+                            </PointsPath>
+                            <Stroke thickness="1.528" cap="round" join="round" name="Stroke" id="0:208811">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208812"/>
+                                <DashPath name="Dash" id="0:208813">
+                                    <Dash length="0.001" name="On" id="0:208814"/>
+                                    <Dash length="24" name="Off" id="0:208815"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208816">
+                            <PointsPath name="P" id="0:208817">
+                                <StraightVertex x="-1700" y="-162" id="0:208818"/>
+                                <StraightVertex x="1700" y="-162" id="0:208819"/>
+                            </PointsPath>
+                            <Stroke thickness="2.3000901" cap="round" join="round" name="Stroke" id="0:208820">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208821"/>
+                                <DashPath name="Dash" id="0:208822">
+                                    <Dash length="0.001" name="On" id="0:208823"/>
+                                    <Dash length="24" name="Off" id="0:208824"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208825">
+                            <PointsPath name="P" id="0:208826">
+                                <StraightVertex x="-1688" y="-138" id="0:208827"/>
+                                <StraightVertex x="1700" y="-138" id="0:208828"/>
+                            </PointsPath>
+                            <Stroke thickness="3.20239" cap="round" join="round" name="Stroke" id="0:208829">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208830"/>
+                                <DashPath name="Dash" id="0:208831">
+                                    <Dash length="0.001" name="On" id="0:208832"/>
+                                    <Dash length="24" name="Off" id="0:208833"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208834">
+                            <PointsPath name="P" id="0:208835">
+                                <StraightVertex x="-1700" y="-114" id="0:208836"/>
+                                <StraightVertex x="1700" y="-114" id="0:208837"/>
+                            </PointsPath>
+                            <Stroke thickness="4.20121" cap="round" join="round" name="Stroke" id="0:208838">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208839"/>
+                                <DashPath name="Dash" id="0:208840">
+                                    <Dash length="0.001" name="On" id="0:208841"/>
+                                    <Dash length="24" name="Off" id="0:208842"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208843">
+                            <PointsPath name="P" id="0:208844">
+                                <StraightVertex x="-1688" y="-90" id="0:208845"/>
+                                <StraightVertex x="1700" y="-90" id="0:208846"/>
+                            </PointsPath>
+                            <Stroke thickness="5.2785501" cap="round" join="round" name="Stroke" id="0:208847">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208848"/>
+                                <DashPath name="Dash" id="0:208849">
+                                    <Dash length="0.001" name="On" id="0:208850"/>
+                                    <Dash length="24" name="Off" id="0:208851"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208852">
+                            <PointsPath name="P" id="0:208853">
+                                <StraightVertex x="-1700" y="-66" id="0:208854"/>
+                                <StraightVertex x="1700" y="-66" id="0:208855"/>
+                            </PointsPath>
+                            <Stroke thickness="6.4229102" cap="round" join="round" name="Stroke" id="0:208856">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208857"/>
+                                <DashPath name="Dash" id="0:208858">
+                                    <Dash length="0.001" name="On" id="0:208859"/>
+                                    <Dash length="24" name="Off" id="0:208860"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208861">
+                            <PointsPath name="P" id="0:208862">
+                                <StraightVertex x="-1688" y="-42" id="0:208863"/>
+                                <StraightVertex x="1700" y="-42" id="0:208864"/>
+                            </PointsPath>
+                            <Stroke thickness="7.6261802" cap="round" join="round" name="Stroke" id="0:208865">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208866"/>
+                                <DashPath name="Dash" id="0:208867">
+                                    <Dash length="0.001" name="On" id="0:208868"/>
+                                    <Dash length="24" name="Off" id="0:208869"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208870">
+                            <PointsPath name="P" id="0:208871">
+                                <StraightVertex x="-1700" y="-18" id="0:208872"/>
+                                <StraightVertex x="1700" y="-18" id="0:208873"/>
+                            </PointsPath>
+                            <Stroke thickness="8.8822899" cap="round" join="round" name="Stroke" id="0:208874">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208875"/>
+                                <DashPath name="Dash" id="0:208876">
+                                    <Dash length="0.001" name="On" id="0:208877"/>
+                                    <Dash length="24" name="Off" id="0:208878"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208879">
+                            <PointsPath name="P" id="0:208880">
+                                <StraightVertex x="-1688" y="6" id="0:208881"/>
+                                <StraightVertex x="1700" y="6" id="0:208882"/>
+                            </PointsPath>
+                            <Stroke thickness="10.18652" cap="round" join="round" name="Stroke" id="0:208883">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208884"/>
+                                <DashPath name="Dash" id="0:208885">
+                                    <Dash length="0.001" name="On" id="0:208886"/>
+                                    <Dash length="24" name="Off" id="0:208887"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208888">
+                            <PointsPath name="P" id="0:208889">
+                                <StraightVertex x="-1700" y="30" id="0:208890"/>
+                                <StraightVertex x="1700" y="30" id="0:208891"/>
+                            </PointsPath>
+                            <Stroke thickness="11.53503" cap="round" join="round" name="Stroke" id="0:208892">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208893"/>
+                                <DashPath name="Dash" id="0:208894">
+                                    <Dash length="0.001" name="On" id="0:208895"/>
+                                    <Dash length="24" name="Off" id="0:208896"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208897">
+                            <PointsPath name="P" id="0:208898">
+                                <StraightVertex x="-1688" y="54" id="0:208899"/>
+                                <StraightVertex x="1700" y="54" id="0:208900"/>
+                            </PointsPath>
+                            <Stroke thickness="12.92467" cap="round" join="round" name="Stroke" id="0:208901">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208902"/>
+                                <DashPath name="Dash" id="0:208903">
+                                    <Dash length="0.001" name="On" id="0:208904"/>
+                                    <Dash length="24" name="Off" id="0:208905"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208906">
+                            <PointsPath name="P" id="0:208907">
+                                <StraightVertex x="-1700" y="78" id="0:208908"/>
+                                <StraightVertex x="1700" y="78" id="0:208909"/>
+                            </PointsPath>
+                            <Stroke thickness="14.35277" cap="round" join="round" name="Stroke" id="0:208910">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208911"/>
+                                <DashPath name="Dash" id="0:208912">
+                                    <Dash length="0.001" name="On" id="0:208913"/>
+                                    <Dash length="24" name="Off" id="0:208914"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208915">
+                            <PointsPath name="P" id="0:208916">
+                                <StraightVertex x="-1688" y="102" id="0:208917"/>
+                                <StraightVertex x="1700" y="102" id="0:208918"/>
+                            </PointsPath>
+                            <Stroke thickness="15.81706" cap="round" join="round" name="Stroke" id="0:208919">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208920"/>
+                                <DashPath name="Dash" id="0:208921">
+                                    <Dash length="0.001" name="On" id="0:208922"/>
+                                    <Dash length="24" name="Off" id="0:208923"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208924">
+                            <PointsPath name="P" id="0:208925">
+                                <StraightVertex x="-1700" y="126" id="0:208926"/>
+                                <StraightVertex x="1700" y="126" id="0:208927"/>
+                            </PointsPath>
+                            <Stroke thickness="17.315571" cap="round" join="round" name="Stroke" id="0:208928">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208929"/>
+                                <DashPath name="Dash" id="0:208930">
+                                    <Dash length="0.001" name="On" id="0:208931"/>
+                                    <Dash length="24" name="Off" id="0:208932"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208933">
+                            <PointsPath name="P" id="0:208934">
+                                <StraightVertex x="-1688" y="150" id="0:208935"/>
+                                <StraightVertex x="1700" y="150" id="0:208936"/>
+                            </PointsPath>
+                            <Stroke thickness="18.84655" cap="round" join="round" name="Stroke" id="0:208937">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208938"/>
+                                <DashPath name="Dash" id="0:208939">
+                                    <Dash length="0.001" name="On" id="0:208940"/>
+                                    <Dash length="24" name="Off" id="0:208941"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208942">
+                            <PointsPath name="P" id="0:208943">
+                                <StraightVertex x="-1700" y="174" id="0:208944"/>
+                                <StraightVertex x="1700" y="174" id="0:208945"/>
+                            </PointsPath>
+                            <Stroke thickness="20.408489" cap="round" join="round" name="Stroke" id="0:208946">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208947"/>
+                                <DashPath name="Dash" id="0:208948">
+                                    <Dash length="0.001" name="On" id="0:208949"/>
+                                    <Dash length="24" name="Off" id="0:208950"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                        <Shape name="Row" id="0:208951">
+                            <PointsPath name="P" id="0:208952">
+                                <StraightVertex x="-1688" y="198" id="0:208953"/>
+                                <StraightVertex x="1700" y="198" id="0:208954"/>
+                            </PointsPath>
+                            <Stroke thickness="22" cap="round" join="round" name="Stroke" id="0:208955">
+                                <SolidColor colorValue="FF17207F" name="C" id="0:208956"/>
+                                <DashPath name="Dash" id="0:208957">
+                                    <Dash length="0.001" name="On" id="0:208958"/>
+                                    <Dash length="24" name="Off" id="0:208959"/>
+                                </DashPath>
+                            </Stroke>
+                        </Shape>
+                    </Node>
+                </Node>
+                <Shape x="-580" name="TintMask" id="3:6609">
+                    <Rectangle width="8000" height="8000" originX="0" name="R" id="0:208960"/>
+                </Shape>
+                <DataBindContext sourcePathIds="3:500-3:834" propertyKey="13" direction="true" id="0:208961"/>
+            </Node>
+            <Shape x="960" y="540" name="Dim" id="3:6606">
+                <Rectangle width="2520" height="1680" name="R" id="0:208962"/>
+                <Fill name="Fill" id="0:208963">
+                    <SolidColor colorValue="4E00004D" name="C" id="0:208964"/>
+                </Fill>
+            </Shape>
+            <Node name="Texture" id="3:6607">
+                <Node x="260" y="200" rotation="2.3559999" name="CornerTL" id="0:208965">
+                    <Shape name="Row" id="0:208966">
+                        <PointsPath name="P" id="0:208967">
+                            <StraightVertex x="-539" y="-238" id="0:208968"/>
+                            <StraightVertex x="550" y="-238" id="0:208969"/>
+                        </PointsPath>
+                        <Stroke thickness="0.72913003" cap="round" join="round" name="Stroke" id="0:208970">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:208971"/>
+                            <DashPath name="Dash" id="0:208972">
+                                <Dash length="0.001" name="On" id="0:208973"/>
+                                <Dash length="22" name="Off" id="0:208974"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:208975">
+                        <PointsPath name="P" id="0:208976">
+                            <StraightVertex x="-550" y="-216" id="0:208977"/>
+                            <StraightVertex x="550" y="-216" id="0:208978"/>
+                        </PointsPath>
+                        <Stroke thickness="1.06419" cap="round" join="round" name="Stroke" id="0:208979">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:208980"/>
+                            <DashPath name="Dash" id="0:208981">
+                                <Dash length="0.001" name="On" id="0:208982"/>
+                                <Dash length="22" name="Off" id="0:208983"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:208984">
+                        <PointsPath name="P" id="0:208985">
+                            <StraightVertex x="-539" y="-194" id="0:208986"/>
+                            <StraightVertex x="550" y="-194" id="0:208987"/>
+                        </PointsPath>
+                        <Stroke thickness="1.45575" cap="round" join="round" name="Stroke" id="0:208988">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:208989"/>
+                            <DashPath name="Dash" id="0:208990">
+                                <Dash length="0.001" name="On" id="0:208991"/>
+                                <Dash length="22" name="Off" id="0:208992"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:208993">
+                        <PointsPath name="P" id="0:208994">
+                            <StraightVertex x="-550" y="-172" id="0:208995"/>
+                            <StraightVertex x="550" y="-172" id="0:208996"/>
+                        </PointsPath>
+                        <Stroke thickness="1.8892" cap="round" join="round" name="Stroke" id="0:208997">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:208998"/>
+                            <DashPath name="Dash" id="0:208999">
+                                <Dash length="0.001" name="On" id="0:209000"/>
+                                <Dash length="22" name="Off" id="0:209001"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209002">
+                        <PointsPath name="P" id="0:209003">
+                            <StraightVertex x="-539" y="-150" id="0:209004"/>
+                            <StraightVertex x="550" y="-150" id="0:209005"/>
+                        </PointsPath>
+                        <Stroke thickness="2.35673" cap="round" join="round" name="Stroke" id="0:209006">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209007"/>
+                            <DashPath name="Dash" id="0:209008">
+                                <Dash length="0.001" name="On" id="0:209009"/>
+                                <Dash length="22" name="Off" id="0:209010"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209011">
+                        <PointsPath name="P" id="0:209012">
+                            <StraightVertex x="-550" y="-128" id="0:209013"/>
+                            <StraightVertex x="550" y="-128" id="0:209014"/>
+                        </PointsPath>
+                        <Stroke thickness="2.8533399" cap="round" join="round" name="Stroke" id="0:209015">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209016"/>
+                            <DashPath name="Dash" id="0:209017">
+                                <Dash length="0.001" name="On" id="0:209018"/>
+                                <Dash length="22" name="Off" id="0:209019"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209020">
+                        <PointsPath name="P" id="0:209021">
+                            <StraightVertex x="-539" y="-106" id="0:209022"/>
+                            <StraightVertex x="550" y="-106" id="0:209023"/>
+                        </PointsPath>
+                        <Stroke thickness="3.37551" cap="round" join="round" name="Stroke" id="0:209024">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209025"/>
+                            <DashPath name="Dash" id="0:209026">
+                                <Dash length="0.001" name="On" id="0:209027"/>
+                                <Dash length="22" name="Off" id="0:209028"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209029">
+                        <PointsPath name="P" id="0:209030">
+                            <StraightVertex x="-550" y="-84" id="0:209031"/>
+                            <StraightVertex x="550" y="-84" id="0:209032"/>
+                        </PointsPath>
+                        <Stroke thickness="3.92062" cap="round" join="round" name="Stroke" id="0:209033">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209034"/>
+                            <DashPath name="Dash" id="0:209035">
+                                <Dash length="0.001" name="On" id="0:209036"/>
+                                <Dash length="22" name="Off" id="0:209037"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209038">
+                        <PointsPath name="P" id="0:209039">
+                            <StraightVertex x="-539" y="-62" id="0:209040"/>
+                            <StraightVertex x="550" y="-62" id="0:209041"/>
+                        </PointsPath>
+                        <Stroke thickness="4.4865999" cap="round" join="round" name="Stroke" id="0:209042">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209043"/>
+                            <DashPath name="Dash" id="0:209044">
+                                <Dash length="0.001" name="On" id="0:209045"/>
+                                <Dash length="22" name="Off" id="0:209046"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209047">
+                        <PointsPath name="P" id="0:209048">
+                            <StraightVertex x="-550" y="-40" id="0:209049"/>
+                            <StraightVertex x="550" y="-40" id="0:209050"/>
+                        </PointsPath>
+                        <Stroke thickness="5.0718002" cap="round" join="round" name="Stroke" id="0:209051">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209052"/>
+                            <DashPath name="Dash" id="0:209053">
+                                <Dash length="0.001" name="On" id="0:209054"/>
+                                <Dash length="22" name="Off" id="0:209055"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209056">
+                        <PointsPath name="P" id="0:209057">
+                            <StraightVertex x="-539" y="-18" id="0:209058"/>
+                            <StraightVertex x="550" y="-18" id="0:209059"/>
+                        </PointsPath>
+                        <Stroke thickness="5.67485" cap="round" join="round" name="Stroke" id="0:209060">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209061"/>
+                            <DashPath name="Dash" id="0:209062">
+                                <Dash length="0.001" name="On" id="0:209063"/>
+                                <Dash length="22" name="Off" id="0:209064"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209065">
+                        <PointsPath name="P" id="0:209066">
+                            <StraightVertex x="-550" y="4" id="0:209067"/>
+                            <StraightVertex x="550" y="4" id="0:209068"/>
+                        </PointsPath>
+                        <Stroke thickness="6.2946" cap="round" join="round" name="Stroke" id="0:209069">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209070"/>
+                            <DashPath name="Dash" id="0:209071">
+                                <Dash length="0.001" name="On" id="0:209072"/>
+                                <Dash length="22" name="Off" id="0:209073"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209074">
+                        <PointsPath name="P" id="0:209075">
+                            <StraightVertex x="-539" y="26" id="0:209076"/>
+                            <StraightVertex x="550" y="26" id="0:209077"/>
+                        </PointsPath>
+                        <Stroke thickness="6.9300399" cap="round" join="round" name="Stroke" id="0:209078">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209079"/>
+                            <DashPath name="Dash" id="0:209080">
+                                <Dash length="0.001" name="On" id="0:209081"/>
+                                <Dash length="22" name="Off" id="0:209082"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209083">
+                        <PointsPath name="P" id="0:209084">
+                            <StraightVertex x="-550" y="48" id="0:209085"/>
+                            <StraightVertex x="550" y="48" id="0:209086"/>
+                        </PointsPath>
+                        <Stroke thickness="7.5803399" cap="round" join="round" name="Stroke" id="0:209087">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209088"/>
+                            <DashPath name="Dash" id="0:209089">
+                                <Dash length="0.001" name="On" id="0:209090"/>
+                                <Dash length="22" name="Off" id="0:209091"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209092">
+                        <PointsPath name="P" id="0:209093">
+                            <StraightVertex x="-539" y="70" id="0:209094"/>
+                            <StraightVertex x="550" y="70" id="0:209095"/>
+                        </PointsPath>
+                        <Stroke thickness="8.24473" cap="round" join="round" name="Stroke" id="0:209096">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209097"/>
+                            <DashPath name="Dash" id="0:209098">
+                                <Dash length="0.001" name="On" id="0:209099"/>
+                                <Dash length="22" name="Off" id="0:209100"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209101">
+                        <PointsPath name="P" id="0:209102">
+                            <StraightVertex x="-550" y="92" id="0:209103"/>
+                            <StraightVertex x="550" y="92" id="0:209104"/>
+                        </PointsPath>
+                        <Stroke thickness="8.9225502" cap="round" join="round" name="Stroke" id="0:209105">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209106"/>
+                            <DashPath name="Dash" id="0:209107">
+                                <Dash length="0.001" name="On" id="0:209108"/>
+                                <Dash length="22" name="Off" id="0:209109"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209110">
+                        <PointsPath name="P" id="0:209111">
+                            <StraightVertex x="-539" y="114" id="0:209112"/>
+                            <StraightVertex x="550" y="114" id="0:209113"/>
+                        </PointsPath>
+                        <Stroke thickness="9.6132097" cap="round" join="round" name="Stroke" id="0:209114">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209115"/>
+                            <DashPath name="Dash" id="0:209116">
+                                <Dash length="0.001" name="On" id="0:209117"/>
+                                <Dash length="22" name="Off" id="0:209118"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209119">
+                        <PointsPath name="P" id="0:209120">
+                            <StraightVertex x="-550" y="136" id="0:209121"/>
+                            <StraightVertex x="550" y="136" id="0:209122"/>
+                        </PointsPath>
+                        <Stroke thickness="10.31616" cap="round" join="round" name="Stroke" id="0:209123">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209124"/>
+                            <DashPath name="Dash" id="0:209125">
+                                <Dash length="0.001" name="On" id="0:209126"/>
+                                <Dash length="22" name="Off" id="0:209127"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209128">
+                        <PointsPath name="P" id="0:209129">
+                            <StraightVertex x="-539" y="158" id="0:209130"/>
+                            <StraightVertex x="550" y="158" id="0:209131"/>
+                        </PointsPath>
+                        <Stroke thickness="11.03094" cap="round" join="round" name="Stroke" id="0:209132">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209133"/>
+                            <DashPath name="Dash" id="0:209134">
+                                <Dash length="0.001" name="On" id="0:209135"/>
+                                <Dash length="22" name="Off" id="0:209136"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209137">
+                        <PointsPath name="P" id="0:209138">
+                            <StraightVertex x="-550" y="180" id="0:209139"/>
+                            <StraightVertex x="550" y="180" id="0:209140"/>
+                        </PointsPath>
+                        <Stroke thickness="11.7571" cap="round" join="round" name="Stroke" id="0:209141">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209142"/>
+                            <DashPath name="Dash" id="0:209143">
+                                <Dash length="0.001" name="On" id="0:209144"/>
+                                <Dash length="22" name="Off" id="0:209145"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209146">
+                        <PointsPath name="P" id="0:209147">
+                            <StraightVertex x="-539" y="202" id="0:209148"/>
+                            <StraightVertex x="550" y="202" id="0:209149"/>
+                        </PointsPath>
+                        <Stroke thickness="12.49424" cap="round" join="round" name="Stroke" id="0:209150">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209151"/>
+                            <DashPath name="Dash" id="0:209152">
+                                <Dash length="0.001" name="On" id="0:209153"/>
+                                <Dash length="22" name="Off" id="0:209154"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209155">
+                        <PointsPath name="P" id="0:209156">
+                            <StraightVertex x="-550" y="224" id="0:209157"/>
+                            <StraightVertex x="550" y="224" id="0:209158"/>
+                        </PointsPath>
+                        <Stroke thickness="13.24198" cap="round" join="round" name="Stroke" id="0:209159">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209160"/>
+                            <DashPath name="Dash" id="0:209161">
+                                <Dash length="0.001" name="On" id="0:209162"/>
+                                <Dash length="22" name="Off" id="0:209163"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209164">
+                        <PointsPath name="P" id="0:209165">
+                            <StraightVertex x="-539" y="246" id="0:209166"/>
+                            <StraightVertex x="550" y="246" id="0:209167"/>
+                        </PointsPath>
+                        <Stroke thickness="14" cap="round" join="round" name="Stroke" id="0:209168">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209169"/>
+                            <DashPath name="Dash" id="0:209170">
+                                <Dash length="0.001" name="On" id="0:209171"/>
+                                <Dash length="22" name="Off" id="0:209172"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                </Node>
+                <Node x="1660" y="880" rotation="-0.78500003" name="CornerBR" id="0:209173">
+                    <Shape name="Row" id="0:209174">
+                        <PointsPath name="P" id="0:209175">
+                            <StraightVertex x="-539" y="-238" id="0:209176"/>
+                            <StraightVertex x="550" y="-238" id="0:209177"/>
+                        </PointsPath>
+                        <Stroke thickness="0.72913003" cap="round" join="round" name="Stroke" id="0:209178">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209179"/>
+                            <DashPath name="Dash" id="0:209180">
+                                <Dash length="0.001" name="On" id="0:209181"/>
+                                <Dash length="22" name="Off" id="0:209182"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209183">
+                        <PointsPath name="P" id="0:209184">
+                            <StraightVertex x="-550" y="-216" id="0:209185"/>
+                            <StraightVertex x="550" y="-216" id="0:209186"/>
+                        </PointsPath>
+                        <Stroke thickness="1.06419" cap="round" join="round" name="Stroke" id="0:209187">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209188"/>
+                            <DashPath name="Dash" id="0:209189">
+                                <Dash length="0.001" name="On" id="0:209190"/>
+                                <Dash length="22" name="Off" id="0:209191"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209192">
+                        <PointsPath name="P" id="0:209193">
+                            <StraightVertex x="-539" y="-194" id="0:209194"/>
+                            <StraightVertex x="550" y="-194" id="0:209195"/>
+                        </PointsPath>
+                        <Stroke thickness="1.45575" cap="round" join="round" name="Stroke" id="0:209196">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209197"/>
+                            <DashPath name="Dash" id="0:209198">
+                                <Dash length="0.001" name="On" id="0:209199"/>
+                                <Dash length="22" name="Off" id="0:209200"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209201">
+                        <PointsPath name="P" id="0:209202">
+                            <StraightVertex x="-550" y="-172" id="0:209203"/>
+                            <StraightVertex x="550" y="-172" id="0:209204"/>
+                        </PointsPath>
+                        <Stroke thickness="1.8892" cap="round" join="round" name="Stroke" id="0:209205">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209206"/>
+                            <DashPath name="Dash" id="0:209207">
+                                <Dash length="0.001" name="On" id="0:209208"/>
+                                <Dash length="22" name="Off" id="0:209209"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209210">
+                        <PointsPath name="P" id="0:209211">
+                            <StraightVertex x="-539" y="-150" id="0:209212"/>
+                            <StraightVertex x="550" y="-150" id="0:209213"/>
+                        </PointsPath>
+                        <Stroke thickness="2.35673" cap="round" join="round" name="Stroke" id="0:209214">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209215"/>
+                            <DashPath name="Dash" id="0:209216">
+                                <Dash length="0.001" name="On" id="0:209217"/>
+                                <Dash length="22" name="Off" id="0:209218"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209219">
+                        <PointsPath name="P" id="0:209220">
+                            <StraightVertex x="-550" y="-128" id="0:209221"/>
+                            <StraightVertex x="550" y="-128" id="0:209222"/>
+                        </PointsPath>
+                        <Stroke thickness="2.8533399" cap="round" join="round" name="Stroke" id="0:209223">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209224"/>
+                            <DashPath name="Dash" id="0:209225">
+                                <Dash length="0.001" name="On" id="0:209226"/>
+                                <Dash length="22" name="Off" id="0:209227"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209228">
+                        <PointsPath name="P" id="0:209229">
+                            <StraightVertex x="-539" y="-106" id="0:209230"/>
+                            <StraightVertex x="550" y="-106" id="0:209231"/>
+                        </PointsPath>
+                        <Stroke thickness="3.37551" cap="round" join="round" name="Stroke" id="0:209232">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209233"/>
+                            <DashPath name="Dash" id="0:209234">
+                                <Dash length="0.001" name="On" id="0:209235"/>
+                                <Dash length="22" name="Off" id="0:209236"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209237">
+                        <PointsPath name="P" id="0:209238">
+                            <StraightVertex x="-550" y="-84" id="0:209239"/>
+                            <StraightVertex x="550" y="-84" id="0:209240"/>
+                        </PointsPath>
+                        <Stroke thickness="3.92062" cap="round" join="round" name="Stroke" id="0:209241">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209242"/>
+                            <DashPath name="Dash" id="0:209243">
+                                <Dash length="0.001" name="On" id="0:209244"/>
+                                <Dash length="22" name="Off" id="0:209245"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209246">
+                        <PointsPath name="P" id="0:209247">
+                            <StraightVertex x="-539" y="-62" id="0:209248"/>
+                            <StraightVertex x="550" y="-62" id="0:209249"/>
+                        </PointsPath>
+                        <Stroke thickness="4.4865999" cap="round" join="round" name="Stroke" id="0:209250">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209251"/>
+                            <DashPath name="Dash" id="0:209252">
+                                <Dash length="0.001" name="On" id="0:209253"/>
+                                <Dash length="22" name="Off" id="0:209254"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209255">
+                        <PointsPath name="P" id="0:209256">
+                            <StraightVertex x="-550" y="-40" id="0:209257"/>
+                            <StraightVertex x="550" y="-40" id="0:209258"/>
+                        </PointsPath>
+                        <Stroke thickness="5.0718002" cap="round" join="round" name="Stroke" id="0:209259">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209260"/>
+                            <DashPath name="Dash" id="0:209261">
+                                <Dash length="0.001" name="On" id="0:209262"/>
+                                <Dash length="22" name="Off" id="0:209263"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209264">
+                        <PointsPath name="P" id="0:209265">
+                            <StraightVertex x="-539" y="-18" id="0:209266"/>
+                            <StraightVertex x="550" y="-18" id="0:209267"/>
+                        </PointsPath>
+                        <Stroke thickness="5.67485" cap="round" join="round" name="Stroke" id="0:209268">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209269"/>
+                            <DashPath name="Dash" id="0:209270">
+                                <Dash length="0.001" name="On" id="0:209271"/>
+                                <Dash length="22" name="Off" id="0:209272"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209273">
+                        <PointsPath name="P" id="0:209274">
+                            <StraightVertex x="-550" y="4" id="0:209275"/>
+                            <StraightVertex x="550" y="4" id="0:209276"/>
+                        </PointsPath>
+                        <Stroke thickness="6.2946" cap="round" join="round" name="Stroke" id="0:209277">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209278"/>
+                            <DashPath name="Dash" id="0:209279">
+                                <Dash length="0.001" name="On" id="0:209280"/>
+                                <Dash length="22" name="Off" id="0:209281"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209282">
+                        <PointsPath name="P" id="0:209283">
+                            <StraightVertex x="-539" y="26" id="0:209284"/>
+                            <StraightVertex x="550" y="26" id="0:209285"/>
+                        </PointsPath>
+                        <Stroke thickness="6.9300399" cap="round" join="round" name="Stroke" id="0:209286">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209287"/>
+                            <DashPath name="Dash" id="0:209288">
+                                <Dash length="0.001" name="On" id="0:209289"/>
+                                <Dash length="22" name="Off" id="0:209290"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209291">
+                        <PointsPath name="P" id="0:209292">
+                            <StraightVertex x="-550" y="48" id="0:209293"/>
+                            <StraightVertex x="550" y="48" id="0:209294"/>
+                        </PointsPath>
+                        <Stroke thickness="7.5803399" cap="round" join="round" name="Stroke" id="0:209295">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209296"/>
+                            <DashPath name="Dash" id="0:209297">
+                                <Dash length="0.001" name="On" id="0:209298"/>
+                                <Dash length="22" name="Off" id="0:209299"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209300">
+                        <PointsPath name="P" id="0:209301">
+                            <StraightVertex x="-539" y="70" id="0:209302"/>
+                            <StraightVertex x="550" y="70" id="0:209303"/>
+                        </PointsPath>
+                        <Stroke thickness="8.24473" cap="round" join="round" name="Stroke" id="0:209304">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209305"/>
+                            <DashPath name="Dash" id="0:209306">
+                                <Dash length="0.001" name="On" id="0:209307"/>
+                                <Dash length="22" name="Off" id="0:209308"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209309">
+                        <PointsPath name="P" id="0:209310">
+                            <StraightVertex x="-550" y="92" id="0:209311"/>
+                            <StraightVertex x="550" y="92" id="0:209312"/>
+                        </PointsPath>
+                        <Stroke thickness="8.9225502" cap="round" join="round" name="Stroke" id="0:209313">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209314"/>
+                            <DashPath name="Dash" id="0:209315">
+                                <Dash length="0.001" name="On" id="0:209316"/>
+                                <Dash length="22" name="Off" id="0:209317"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209318">
+                        <PointsPath name="P" id="0:209319">
+                            <StraightVertex x="-539" y="114" id="0:209320"/>
+                            <StraightVertex x="550" y="114" id="0:209321"/>
+                        </PointsPath>
+                        <Stroke thickness="9.6132097" cap="round" join="round" name="Stroke" id="0:209322">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209323"/>
+                            <DashPath name="Dash" id="0:209324">
+                                <Dash length="0.001" name="On" id="0:209325"/>
+                                <Dash length="22" name="Off" id="0:209326"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209327">
+                        <PointsPath name="P" id="0:209328">
+                            <StraightVertex x="-550" y="136" id="0:209329"/>
+                            <StraightVertex x="550" y="136" id="0:209330"/>
+                        </PointsPath>
+                        <Stroke thickness="10.31616" cap="round" join="round" name="Stroke" id="0:209331">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209332"/>
+                            <DashPath name="Dash" id="0:209333">
+                                <Dash length="0.001" name="On" id="0:209334"/>
+                                <Dash length="22" name="Off" id="0:209335"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209336">
+                        <PointsPath name="P" id="0:209337">
+                            <StraightVertex x="-539" y="158" id="0:209338"/>
+                            <StraightVertex x="550" y="158" id="0:209339"/>
+                        </PointsPath>
+                        <Stroke thickness="11.03094" cap="round" join="round" name="Stroke" id="0:209340">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209341"/>
+                            <DashPath name="Dash" id="0:209342">
+                                <Dash length="0.001" name="On" id="0:209343"/>
+                                <Dash length="22" name="Off" id="0:209344"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209345">
+                        <PointsPath name="P" id="0:209346">
+                            <StraightVertex x="-550" y="180" id="0:209347"/>
+                            <StraightVertex x="550" y="180" id="0:209348"/>
+                        </PointsPath>
+                        <Stroke thickness="11.7571" cap="round" join="round" name="Stroke" id="0:209349">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209350"/>
+                            <DashPath name="Dash" id="0:209351">
+                                <Dash length="0.001" name="On" id="0:209352"/>
+                                <Dash length="22" name="Off" id="0:209353"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209354">
+                        <PointsPath name="P" id="0:209355">
+                            <StraightVertex x="-539" y="202" id="0:209356"/>
+                            <StraightVertex x="550" y="202" id="0:209357"/>
+                        </PointsPath>
+                        <Stroke thickness="12.49424" cap="round" join="round" name="Stroke" id="0:209358">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209359"/>
+                            <DashPath name="Dash" id="0:209360">
+                                <Dash length="0.001" name="On" id="0:209361"/>
+                                <Dash length="22" name="Off" id="0:209362"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209363">
+                        <PointsPath name="P" id="0:209364">
+                            <StraightVertex x="-550" y="224" id="0:209365"/>
+                            <StraightVertex x="550" y="224" id="0:209366"/>
+                        </PointsPath>
+                        <Stroke thickness="13.24198" cap="round" join="round" name="Stroke" id="0:209367">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209368"/>
+                            <DashPath name="Dash" id="0:209369">
+                                <Dash length="0.001" name="On" id="0:209370"/>
+                                <Dash length="22" name="Off" id="0:209371"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                    <Shape name="Row" id="0:209372">
+                        <PointsPath name="P" id="0:209373">
+                            <StraightVertex x="-539" y="246" id="0:209374"/>
+                            <StraightVertex x="550" y="246" id="0:209375"/>
+                        </PointsPath>
+                        <Stroke thickness="14" cap="round" join="round" name="Stroke" id="0:209376">
+                            <SolidColor colorValue="8C17207F" name="C" id="0:209377"/>
+                            <DashPath name="Dash" id="0:209378">
+                                <Dash length="0.001" name="On" id="0:209379"/>
+                                <Dash length="22" name="Off" id="0:209380"/>
+                            </DashPath>
+                        </Stroke>
+                    </Shape>
+                </Node>
+                <Shape x="960" y="540" name="Speckle" id="0:209381">
+                    <Ellipse width="1.9772" height="1.56204" x="289.79419" y="-461.7688" name="E" id="0:209382"/>
+                    <Ellipse width="2.48612" height="2.0776501" x="-848.64209" y="8.0305901" name="E" id="0:209383"/>
+                    <Ellipse width="1.2899899" height="2.2407501" x="-825.87756" y="-442.02994" name="E" id="0:209384"/>
+                    <Ellipse width="2.2188499" height="3.1844499" x="-722.30023" y="-298.90192" name="E" id="0:209385"/>
+                    <Ellipse width="2.7058401" height="3.4744999" x="148.03766" y="-111.58509" name="E" id="0:209386"/>
+                    <Ellipse width="3.54301" height="1.3118" x="688.25946" y="-227.22197" name="E" id="0:209387"/>
+                    <Ellipse width="1.5462101" height="1.4827" x="-367.7149" y="341.41647" name="E" id="0:209388"/>
+                    <Ellipse width="1.6337399" height="2.59584" x="266.71387" y="-137.81065" name="E" id="0:209389"/>
+                    <Ellipse width="2.51459" height="1.35069" x="-845.56573" y="-317.56458" name="E" id="0:209390"/>
+                    <Ellipse width="2.8329599" height="2.2262199" x="-356.83743" y="92.406807" name="E" id="0:209391"/>
+                    <Ellipse width="2.2876401" height="1.91944" x="565.20862" y="214.91399" name="E" id="0:209392"/>
+                    <Ellipse width="1.78583" height="2.57862" x="48.377289" y="405.1485" name="E" id="0:209393"/>
+                    <Ellipse width="2.95067" height="1.89105" x="921.93573" y="-412.48895" name="E" id="0:209394"/>
+                    <Ellipse width="2.20349" height="3.0171399" x="-668.1897" y="-11.91985" name="E" id="0:209395"/>
+                    <Ellipse width="1.2941" height="2.80372" x="507.97607" y="78.868019" name="E" id="0:209396"/>
+                    <Ellipse width="3.3011501" height="1.9529901" x="374.9671" y="101.91947" name="E" id="0:209397"/>
+                    <Ellipse width="2.5917499" height="2.2948899" x="652.73816" y="480.25558" name="E" id="0:209398"/>
+                    <Ellipse width="2.3378401" height="2.7939701" x="-843.51471" y="217.61137" name="E" id="0:209399"/>
+                    <Ellipse width="2.7531099" height="3.5834301" x="618.09558" y="-232.63683" name="E" id="0:209400"/>
+                    <Ellipse width="2.1259" height="2.80477" x="-916.6792" y="-41.369091" name="E" id="0:209401"/>
+                    <Ellipse width="1.60332" height="1.48103" x="-846.8075" y="289.69162" name="E" id="0:209402"/>
+                    <Ellipse width="1.51042" height="1.7942801" x="-209.37657" y="401.13574" name="E" id="0:209403"/>
+                    <Ellipse width="1.3934" height="2.2780499" x="94.924629" y="414.05453" name="E" id="0:209404"/>
+                    <Ellipse width="3.16627" height="3.27356" x="-425.43155" y="-91.479759" name="E" id="0:209405"/>
+                    <Ellipse width="2.0610499" height="3.3220601" x="878.84393" y="-377.00543" name="E" id="0:209406"/>
+                    <Ellipse width="1.62292" height="1.7567" x="-511.99472" y="-16.24025" name="E" id="0:209407"/>
+                    <Ellipse width="2.6138999" height="1.83059" x="-952.14026" y="-87.537781" name="E" id="0:209408"/>
+                    <Ellipse width="2.08621" height="2.5592201" x="869.948" y="205.73315" name="E" id="0:209409"/>
+                    <Ellipse width="2.43718" height="2.68222" x="338.30417" y="-481.68768" name="E" id="0:209410"/>
+                    <Ellipse width="3.35888" height="3.0719299" x="719.06531" y="321.70297" name="E" id="0:209411"/>
+                    <Ellipse width="2.14171" height="2.1575501" x="-761.2088" y="145.03273" name="E" id="0:209412"/>
+                    <Ellipse width="1.34939" height="1.36163" x="-559.17468" y="-364.71255" name="E" id="0:209413"/>
+                    <Ellipse width="2.01613" height="1.32618" x="-959.55212" y="-376.63388" name="E" id="0:209414"/>
+                    <Ellipse width="1.4435101" height="2.07266" x="-911.03833" y="404.27896" name="E" id="0:209415"/>
+                    <Ellipse width="2.67377" height="1.55652" x="-475.6651" y="-164.81929" name="E" id="0:209416"/>
+                    <Ellipse width="2.0739901" height="1.49482" x="669.95892" y="532.55096" name="E" id="0:209417"/>
+                    <Ellipse width="2.3183701" height="2.3612001" x="-795.10144" y="-429.63736" name="E" id="0:209418"/>
+                    <Ellipse width="2.02233" height="1.83542" x="631.40234" y="-365.6463" name="E" id="0:209419"/>
+                    <Ellipse width="1.25543" height="3.4823699" x="54.2542" y="-381.66925" name="E" id="0:209420"/>
+                    <Ellipse width="2.5036099" height="1.2649" x="53.970131" y="516.78131" name="E" id="0:209421"/>
+                    <Ellipse width="3.27198" height="2.8708701" x="-458.65881" y="-143.96422" name="E" id="0:209422"/>
+                    <Ellipse width="1.6009001" height="3.05265" x="62.5774" y="301.37927" name="E" id="0:209423"/>
+                    <Ellipse width="1.9912" height="1.7352999" x="598.10156" y="523.72015" name="E" id="0:209424"/>
+                    <Ellipse width="3.24631" height="3.1345899" x="611.19928" y="259.06287" name="E" id="0:209425"/>
+                    <Ellipse width="1.74417" height="2.4423299" x="-277.31992" y="-508.70145" name="E" id="0:209426"/>
+                    <Ellipse width="1.26705" height="1.8706" x="-462.38522" y="207.92371" name="E" id="0:209427"/>
+                    <Ellipse width="3.49564" height="2.27335" x="839.08069" y="527.08112" name="E" id="0:209428"/>
+                    <Ellipse width="3.4920001" height="2.07513" x="-536.71234" y="-295.0065" name="E" id="0:209429"/>
+                    <Ellipse width="1.6720901" height="1.6905" x="238.20747" y="432.33301" name="E" id="0:209430"/>
+                    <Ellipse width="3.2170501" height="2.35074" x="293.71783" y="323.61523" name="E" id="0:209431"/>
+                    <Ellipse width="1.40347" height="2.7854099" x="786.77209" y="304.88712" name="E" id="0:209432"/>
+                    <Ellipse width="3.00034" height="2.34728" x="-617.23828" y="312.26627" name="E" id="0:209433"/>
+                    <Ellipse width="1.99804" height="3.12198" x="905.58197" y="-112.49443" name="E" id="0:209434"/>
+                    <Ellipse width="2.1633301" height="3.4723101" x="431.61343" y="-356.39606" name="E" id="0:209435"/>
+                    <Ellipse width="1.50489" height="1.56276" x="777.31604" y="331.02213" name="E" id="0:209436"/>
+                    <Ellipse width="1.55082" height="3.18363" x="922.18744" y="169.84976" name="E" id="0:209437"/>
+                    <Ellipse width="2.0409801" height="2.5167799" x="-708.51099" y="-524.61761" name="E" id="0:209438"/>
+                    <Ellipse width="3.5301399" height="2.7592199" x="51.03561" y="468.31479" name="E" id="0:209439"/>
+                    <Ellipse width="2.2411399" height="3.2921801" x="626.21808" y="-312.07428" name="E" id="0:209440"/>
+                    <Ellipse width="1.8044" height="1.90312" x="-498.16437" y="93.352142" name="E" id="0:209441"/>
+                    <Ellipse width="1.82248" height="2.2056301" x="-708.33856" y="442.81842" name="E" id="0:209442"/>
+                    <Ellipse width="2.0490799" height="2.2995901" x="160.02963" y="436.64053" name="E" id="0:209443"/>
+                    <Ellipse width="2.2095101" height="3.40253" x="3.1659701" y="34.37096" name="E" id="0:209444"/>
+                    <Ellipse width="2.4564199" height="1.24489" x="-114.96017" y="-342.24347" name="E" id="0:209445"/>
+                    <Ellipse width="1.20944" height="3.11801" x="-629.0943" y="-28.62763" name="E" id="0:209446"/>
+                    <Ellipse width="2.94046" height="2.5355401" x="-334.11426" y="19.81661" name="E" id="0:209447"/>
+                    <Ellipse width="2.5330601" height="3.0822501" x="-756.2699" y="65.11982" name="E" id="0:209448"/>
+                    <Ellipse width="1.7963901" height="1.8645999" x="522.74133" y="8.33111" name="E" id="0:209449"/>
+                    <Ellipse width="2.5481501" height="3.0239799" x="791.97705" y="-61.291729" name="E" id="0:209450"/>
+                    <Ellipse width="2.6700699" height="2.4133301" x="23.350031" y="208.14948" name="E" id="0:209451"/>
+                    <Ellipse width="2.28563" height="2.4798901" x="-42.170269" y="476.82123" name="E" id="0:209452"/>
+                    <Ellipse width="2.8781199" height="3.30369" x="848.98676" y="-259.64032" name="E" id="0:209453"/>
+                    <Ellipse width="2.54283" height="3.46384" x="652.79956" y="-391.89481" name="E" id="0:209454"/>
+                    <Ellipse width="1.49189" height="2.26108" x="-820.71149" y="-280.11014" name="E" id="0:209455"/>
+                    <Ellipse width="1.37549" height="2.80673" x="545.15717" y="428.78854" name="E" id="0:209456"/>
+                    <Ellipse width="1.57067" height="2.91869" x="307.6925" y="-385.58267" name="E" id="0:209457"/>
+                    <Ellipse width="3.3188" height="3.52211" x="-538.39136" y="488.70447" name="E" id="0:209458"/>
+                    <Ellipse width="2.1558199" height="2.3694301" x="940.55316" y="359.04025" name="E" id="0:209459"/>
+                    <Ellipse width="1.58752" height="2.2356501" x="29.96171" y="-173.75456" name="E" id="0:209460"/>
+                    <Ellipse width="1.66979" height="1.96446" x="426.5296" y="-518.95844" name="E" id="0:209461"/>
+                    <Ellipse width="2.5297201" height="2.2571001" x="-925.28259" y="-181.98228" name="E" id="0:209462"/>
+                    <Ellipse width="2.6974199" height="2.42943" x="-836.56171" y="523.88989" name="E" id="0:209463"/>
+                    <Ellipse width="3.0920701" height="3.5320699" x="-758.82318" y="-253.1906" name="E" id="0:209464"/>
+                    <Ellipse width="1.29501" height="3.0695901" x="-440.7435" y="-400.07999" name="E" id="0:209465"/>
+                    <Ellipse width="2.2134099" height="3.3873899" x="612.43964" y="-260.70227" name="E" id="0:209466"/>
+                    <Ellipse width="1.55848" height="3.4060099" x="135.54227" y="216.45084" name="E" id="0:209467"/>
+                    <Ellipse width="1.41471" height="1.33806" x="361.35471" y="-80.6576" name="E" id="0:209468"/>
+                    <Ellipse width="1.37379" height="3.45204" x="258.12384" y="325.75888" name="E" id="0:209469"/>
+                    <Ellipse width="1.40098" height="3.25495" x="-832.08472" y="391.79697" name="E" id="0:209470"/>
+                    <Ellipse width="2.2890601" height="2.0139599" x="101.88311" y="460.80283" name="E" id="0:209471"/>
+                    <Ellipse width="1.84286" height="1.5101399" x="51.676849" y="-282.48895" name="E" id="0:209472"/>
+                    <Ellipse width="1.46268" height="1.5874799" x="-863.27094" y="-322.0903" name="E" id="0:209473"/>
+                    <Ellipse width="1.9487799" height="1.9320101" x="498.23666" y="-226.8423" name="E" id="0:209474"/>
+                    <Ellipse width="2.4002099" height="1.62696" x="-293.75803" y="-520.38385" name="E" id="0:209475"/>
+                    <Ellipse width="1.80108" height="1.23683" x="447.51434" y="55.13306" name="E" id="0:209476"/>
+                    <Ellipse width="1.6547" height="2.3394301" x="834.51422" y="-425.21616" name="E" id="0:209477"/>
+                    <Ellipse width="3.16541" height="2.2372301" x="-9.5969801" y="361.38306" name="E" id="0:209478"/>
+                    <Ellipse width="2.14341" height="2.41605" x="360.46414" y="521.03577" name="E" id="0:209479"/>
+                    <Ellipse width="2.02249" height="3.19749" x="396.91278" y="146.8551" name="E" id="0:209480"/>
+                    <Ellipse width="2.1712699" height="2.0341301" x="-855.57404" y="-399.79593" name="E" id="0:209481"/>
+                    <Ellipse width="1.36973" height="2.9781301" x="-469.25977" y="-363.69376" name="E" id="0:209482"/>
+                    <Ellipse width="1.40276" height="3.2190499" x="711.43262" y="184.18677" name="E" id="0:209483"/>
+                    <Ellipse width="1.87664" height="1.78131" x="-397.3277" y="-43.790821" name="E" id="0:209484"/>
+                    <Ellipse width="1.5780801" height="2.26998" x="-454.5733" y="498.72946" name="E" id="0:209485"/>
+                    <Ellipse width="3.5343001" height="2.51298" x="-490.66272" y="502.9201" name="E" id="0:209486"/>
+                    <Ellipse width="1.94292" height="2.0558" x="-957.94769" y="-127.84326" name="E" id="0:209487"/>
+                    <Ellipse width="2.3391399" height="2.40663" x="-574.11829" y="5.11449" name="E" id="0:209488"/>
+                    <Ellipse width="1.21188" height="1.834" x="-787.67346" y="-108.52794" name="E" id="0:209489"/>
+                    <Ellipse width="1.3" height="1.2539901" x="-375.85043" y="-288.56567" name="E" id="0:209490"/>
+                    <Ellipse width="2.6054001" height="2.4700501" x="481.03802" y="170.14717" name="E" id="0:209491"/>
+                    <Ellipse width="2.91838" height="3.3098199" x="-212.12839" y="-187.77448" name="E" id="0:209492"/>
+                    <Ellipse width="3.56335" height="1.55871" x="430.37909" y="154.67702" name="E" id="0:209493"/>
+                    <Ellipse width="1.30509" height="3.20469" x="752.5293" y="137.51869" name="E" id="0:209494"/>
+                    <Ellipse width="2.9612501" height="3.1493299" x="-692.52942" y="25.657869" name="E" id="0:209495"/>
+                    <Ellipse width="2.41049" height="3.20385" x="584.98102" y="352.52185" name="E" id="0:209496"/>
+                    <Ellipse width="2.6017499" height="3.3427899" x="351.15912" y="208.79224" name="E" id="0:209497"/>
+                    <Ellipse width="1.75186" height="1.27479" x="-704.46106" y="-150.43593" name="E" id="0:209498"/>
+                    <Ellipse width="1.4518" height="3.20597" x="112.37231" y="137.98848" name="E" id="0:209499"/>
+                    <Ellipse width="2.70294" height="2.83359" x="-20.55492" y="-536.42053" name="E" id="0:209500"/>
+                    <Ellipse width="3.11447" height="2.9958401" x="5.7044201" y="38.0158" name="E" id="0:209501"/>
+                    <Ellipse width="2.78232" height="1.35852" x="454.63358" y="-267.63098" name="E" id="0:209502"/>
+                    <Ellipse width="1.37868" height="1.83734" x="440.32327" y="-318.36508" name="E" id="0:209503"/>
+                    <Ellipse width="2.97559" height="3.54176" x="-11.61834" y="-126.83468" name="E" id="0:209504"/>
+                    <Ellipse width="2.3496201" height="2.8408699" x="512.58258" y="126.33194" name="E" id="0:209505"/>
+                    <Ellipse width="2.74263" height="1.3859299" x="-676.94385" y="-265.74451" name="E" id="0:209506"/>
+                    <Ellipse width="2.9837201" height="1.9306" x="130.10246" y="-526.53326" name="E" id="0:209507"/>
+                    <Ellipse width="1.34559" height="1.84505" x="330.24304" y="207.56" name="E" id="0:209508"/>
+                    <Ellipse width="2.8217001" height="1.89806" x="31.748529" y="-38.16412" name="E" id="0:209509"/>
+                    <Ellipse width="2.3192101" height="1.48441" x="755.83282" y="-324.80997" name="E" id="0:209510"/>
+                    <Ellipse width="3.5474999" height="3.44701" x="-926.39142" y="-44.311508" name="E" id="0:209511"/>
+                    <Ellipse width="3.1677499" height="3.5234599" x="-97.054138" y="-249.85017" name="E" id="0:209512"/>
+                    <Ellipse width="1.7036099" height="3.4694099" x="-555.43909" y="87.990158" name="E" id="0:209513"/>
+                    <Ellipse width="1.54018" height="2.4577601" x="869.26147" y="-396.78653" name="E" id="0:209514"/>
+                    <Ellipse width="3.16852" height="2.42099" x="742.77533" y="219.604" name="E" id="0:209515"/>
+                    <Ellipse width="1.75532" height="3.35449" x="-26.60994" y="-513.17883" name="E" id="0:209516"/>
+                    <Ellipse width="1.20862" height="2.38007" x="-94.540222" y="-213.89288" name="E" id="0:209517"/>
+                    <Ellipse width="1.5377001" height="2.0255001" x="-353.13016" y="367.44952" name="E" id="0:209518"/>
+                    <Ellipse width="1.20418" height="3.00176" x="651.09271" y="-410.35535" name="E" id="0:209519"/>
+                    <Ellipse width="3.4233601" height="2.9112599" x="771.00781" y="-226.98039" name="E" id="0:209520"/>
+                    <Ellipse width="2.0933299" height="2.1429601" x="957.68158" y="96.310791" name="E" id="0:209521"/>
+                    <Ellipse width="2.0657001" height="2.22733" x="-431.7019" y="-487.87045" name="E" id="0:209522"/>
+                    <Ellipse width="1.4441" height="3.2032199" x="-411.60349" y="470.43707" name="E" id="0:209523"/>
+                    <Ellipse width="1.79838" height="1.83775" x="21.048941" y="-334.96304" name="E" id="0:209524"/>
+                    <Ellipse width="2.09604" height="3.4948001" x="737.79181" y="336.91925" name="E" id="0:209525"/>
+                    <Ellipse width="2.71415" height="3.39222" x="846.14264" y="53.166401" name="E" id="0:209526"/>
+                    <Ellipse width="2.92697" height="1.31874" x="446.11673" y="-53.07074" name="E" id="0:209527"/>
+                    <Ellipse width="3.0064001" height="2.7467799" x="-410.48004" y="-487.10495" name="E" id="0:209528"/>
+                    <Ellipse width="3.4242599" height="1.50555" x="-53.406551" y="-168.84412" name="E" id="0:209529"/>
+                    <Ellipse width="1.91465" height="2.97368" x="914.48865" y="-259.01743" name="E" id="0:209530"/>
+                    <Ellipse width="2.77439" height="1.9220099" x="110.05767" y="-114.0828" name="E" id="0:209531"/>
+                    <Ellipse width="1.6016001" height="1.58798" x="-560.88477" y="438.43671" name="E" id="0:209532"/>
+                    <Ellipse width="2.3929801" height="1.72806" x="780.01801" y="536.19312" name="E" id="0:209533"/>
+                    <Ellipse width="2.2799101" height="1.53503" x="-590.57837" y="-442.02832" name="E" id="0:209534"/>
+                    <Ellipse width="2.02069" height="1.41863" x="-500.87698" y="-260.97382" name="E" id="0:209535"/>
+                    <Ellipse width="2.56708" height="3.3294001" x="479.34262" y="-94.195808" name="E" id="0:209536"/>
+                    <Ellipse width="2.19332" height="2.4579999" x="-236.41763" y="-174.74065" name="E" id="0:209537"/>
+                    <Ellipse width="1.34894" height="1.86604" x="897.95569" y="-404.0563" name="E" id="0:209538"/>
+                    <Ellipse width="2.40815" height="2.7111001" x="696.69379" y="-306.7598" name="E" id="0:209539"/>
+                    <Ellipse width="1.85045" height="1.79629" x="-192.46629" y="-58.472939" name="E" id="0:209540"/>
+                    <Ellipse width="3.48946" height="3.23684" x="715.95068" y="-516.44464" name="E" id="0:209541"/>
+                    <Ellipse width="1.27738" height="2.9028299" x="759.7373" y="-28.87026" name="E" id="0:209542"/>
+                    <Ellipse width="2.60922" height="1.20043" x="-208.2795" y="460.97345" name="E" id="0:209543"/>
+                    <Ellipse width="3.1814101" height="3.2531099" x="906.70294" y="-271.6575" name="E" id="0:209544"/>
+                    <Ellipse width="1.46171" height="1.57051" x="42.941971" y="196.64107" name="E" id="0:209545"/>
+                    <Ellipse width="3.4595799" height="2.9321599" x="282.90839" y="285.98459" name="E" id="0:209546"/>
+                    <Ellipse width="2.29758" height="2.5236001" x="-884.07117" y="304.88251" name="E" id="0:209547"/>
+                    <Ellipse width="1.75818" height="3.40781" x="279.37109" y="-211.91516" name="E" id="0:209548"/>
+                    <Ellipse width="1.50712" height="1.80431" x="261.67892" y="214.46848" name="E" id="0:209549"/>
+                    <Ellipse width="1.46912" height="1.36884" x="46.91843" y="89.522247" name="E" id="0:209550"/>
+                    <Ellipse width="2.1314001" height="1.7366" x="194.03693" y="-528.70142" name="E" id="0:209551"/>
+                    <Ellipse width="1.92365" height="2.30566" x="881.16473" y="156.14169" name="E" id="0:209552"/>
+                    <Ellipse width="3.3210599" height="2.34073" x="-509.24524" y="-273.17694" name="E" id="0:209553"/>
+                    <Ellipse width="3.50547" height="2.89117" x="-369.79617" y="-516.4696" name="E" id="0:209554"/>
+                    <Ellipse width="2.3959401" height="2.8187101" x="-153.56953" y="-262.16339" name="E" id="0:209555"/>
+                    <Ellipse width="2.80165" height="3.4203899" x="-524.57074" y="-503.17477" name="E" id="0:209556"/>
+                    <Ellipse width="2.0113201" height="2.2093401" x="350.52802" y="-326.07401" name="E" id="0:209557"/>
+                    <Ellipse width="3.1129501" height="2.9739101" x="9.3664999" y="-318.36392" name="E" id="0:209558"/>
+                    <Ellipse width="3.5276599" height="1.94812" x="614.40863" y="-290.72647" name="E" id="0:209559"/>
+                    <Ellipse width="1.73146" height="3.02513" x="-393.72894" y="488.08102" name="E" id="0:209560"/>
+                    <Ellipse width="2.3898399" height="1.64955" x="-531.21765" y="-89.608589" name="E" id="0:209561"/>
+                    <Ellipse width="2.79671" height="3.47703" x="-678.94452" y="-115.06323" name="E" id="0:209562"/>
+                    <Ellipse width="1.71108" height="3.53789" x="-687.5307" y="-484.01221" name="E" id="0:209563"/>
+                    <Ellipse width="1.3443201" height="2.14397" x="764.48145" y="414.27032" name="E" id="0:209564"/>
+                    <Ellipse width="2.95854" height="3.59407" x="828.66333" y="-184.41782" name="E" id="0:209565"/>
+                    <Ellipse width="1.6452301" height="3.44612" x="472.9122" y="-505.55481" name="E" id="0:209566"/>
+                    <Ellipse width="2.7946301" height="2.10869" x="-242.14345" y="-181.76671" name="E" id="0:209567"/>
+                    <Ellipse width="1.60623" height="1.20689" x="-422.77167" y="-160.41579" name="E" id="0:209568"/>
+                    <Ellipse width="3.4932401" height="1.4969" x="891.40076" y="-316.00537" name="E" id="0:209569"/>
+                    <Ellipse width="2.0559101" height="3.1717801" x="618.25531" y="-72.95472" name="E" id="0:209570"/>
+                    <Ellipse width="1.31822" height="2.3363099" x="-244.38837" y="453.06693" name="E" id="0:209571"/>
+                    <Ellipse width="1.66326" height="2.0741999" x="762.22723" y="-507.29538" name="E" id="0:209572"/>
+                    <Ellipse width="2.18592" height="3.14838" x="512.00256" y="-496.09857" name="E" id="0:209573"/>
+                    <Ellipse width="1.28365" height="1.35019" x="806.5473" y="-262.42276" name="E" id="0:209574"/>
+                    <Ellipse width="2.99349" height="3.3565199" x="-308.98651" y="-245.90016" name="E" id="0:209575"/>
+                    <Ellipse width="3.4984601" height="2.6807499" x="-456.62885" y="233.96661" name="E" id="0:209576"/>
+                    <Ellipse width="1.95956" height="1.86151" x="-952.75848" y="276.10455" name="E" id="0:209577"/>
+                    <Ellipse width="3.3994999" height="2.72155" x="851.04028" y="-513.80273" name="E" id="0:209578"/>
+                    <Ellipse width="1.7612799" height="2.34045" x="877.01306" y="490.22342" name="E" id="0:209579"/>
+                    <Ellipse width="2.12764" height="1.80251" x="-134.51888" y="-7.0482502" name="E" id="0:209580"/>
+                    <Ellipse width="3.4274399" height="1.63905" x="580.93115" y="257.56705" name="E" id="0:209581"/>
+                    <Ellipse width="3.1746099" height="3.05474" x="205.92812" y="-185.9762" name="E" id="0:209582"/>
+                    <Ellipse width="1.96692" height="2.06846" x="541.91736" y="-454.66394" name="E" id="0:209583"/>
+                    <Ellipse width="1.67355" height="3.0069301" x="-485.16959" y="-470.08832" name="E" id="0:209584"/>
+                    <Ellipse width="1.28127" height="2.5262301" x="-334.54395" y="518.67621" name="E" id="0:209585"/>
+                    <Ellipse width="3.3203399" height="3.57078" x="-451.40866" y="-449.1908" name="E" id="0:209586"/>
+                    <Ellipse width="1.43141" height="2.3963399" x="402.76065" y="-57.27985" name="E" id="0:209587"/>
+                    <Ellipse width="1.7620699" height="2.2004199" x="230.99068" y="188.03731" name="E" id="0:209588"/>
+                    <Ellipse width="2.9951401" height="3.23277" x="315.69644" y="-409.14209" name="E" id="0:209589"/>
+                    <Ellipse width="3.2180901" height="1.90508" x="128.41768" y="-137.19128" name="E" id="0:209590"/>
+                    <Ellipse width="2.97136" height="1.6780601" x="-484.93607" y="-275.03247" name="E" id="0:209591"/>
+                    <Ellipse width="1.56797" height="3.322" x="150.29906" y="-187.55505" name="E" id="0:209592"/>
+                    <Ellipse width="2.1505699" height="3.5818801" x="14.06307" y="-290.10858" name="E" id="0:209593"/>
+                    <Ellipse width="3.14026" height="2.7679801" x="942.63483" y="-429.48099" name="E" id="0:209594"/>
+                    <Ellipse width="2.3394301" height="3.1658499" x="653.86823" y="447.5256" name="E" id="0:209595"/>
+                    <Ellipse width="1.29687" height="1.90483" x="-731.10406" y="-335.26096" name="E" id="0:209596"/>
+                    <Ellipse width="3.53512" height="2.5996699" x="825.93359" y="-137.98409" name="E" id="0:209597"/>
+                    <Ellipse width="3.2787099" height="2.2778699" x="-460.89941" y="299.99838" name="E" id="0:209598"/>
+                    <Ellipse width="3.4696901" height="1.4538701" x="184.60237" y="129.54382" name="E" id="0:209599"/>
+                    <Ellipse width="1.72235" height="2.0848999" x="-688.57062" y="-319.70544" name="E" id="0:209600"/>
+                    <Ellipse width="1.81179" height="2.6386199" x="291.15421" y="-320.28287" name="E" id="0:209601"/>
+                    <Ellipse width="1.2273099" height="1.9854" x="342.3739" y="-340.0433" name="E" id="0:209602"/>
+                    <Ellipse width="1.94927" height="1.68818" x="566.93982" y="51.88842" name="E" id="0:209603"/>
+                    <Ellipse width="1.35185" height="1.44333" x="-201.0303" y="54.148621" name="E" id="0:209604"/>
+                    <Ellipse width="2.73404" height="1.41877" x="-645.71649" y="211.03836" name="E" id="0:209605"/>
+                    <Ellipse width="2.18349" height="1.87992" x="-369.41614" y="489.44394" name="E" id="0:209606"/>
+                    <Ellipse width="1.94967" height="2.5596499" x="-274.21112" y="-90.238991" name="E" id="0:209607"/>
+                    <Ellipse width="3.2741899" height="3.5918901" x="-261.53976" y="-327.02228" name="E" id="0:209608"/>
+                    <Ellipse width="2.9472799" height="1.6888" x="-948.71692" y="433.76102" name="E" id="0:209609"/>
+                    <Ellipse width="2.21701" height="3.16888" x="-180.06206" y="413.46497" name="E" id="0:209610"/>
+                    <Ellipse width="2.30617" height="1.5901099" x="-931.51801" y="55.67168" name="E" id="0:209611"/>
+                    <Ellipse width="2.7376001" height="3.3835101" x="-789.06024" y="131.97015" name="E" id="0:209612"/>
+                    <Ellipse width="2.0900199" height="2.4107101" x="-679.89728" y="-234.0414" name="E" id="0:209613"/>
+                    <Ellipse width="2.4507799" height="3.4212" x="-751.11774" y="-10.24958" name="E" id="0:209614"/>
+                    <Ellipse width="3.1315501" height="3.5204999" x="-581.10394" y="-403.21762" name="E" id="0:209615"/>
+                    <Ellipse width="3.4633801" height="3.5413101" x="-33.14595" y="-482.3555" name="E" id="0:209616"/>
+                    <Ellipse width="3.4228001" height="2.13095" x="776.104" y="129.9704" name="E" id="0:209617"/>
+                    <Ellipse width="3.17893" height="1.5846601" x="548.7851" y="-300.15891" name="E" id="0:209618"/>
+                    <Ellipse width="2.1707599" height="3.23124" x="632.04041" y="-342.39722" name="E" id="0:209619"/>
+                    <Ellipse width="1.7235301" height="2.15939" x="34.353642" y="-125.73752" name="E" id="0:209620"/>
+                    <Ellipse width="1.49534" height="1.79294" x="431.77478" y="429.07861" name="E" id="0:209621"/>
+                    <Ellipse width="1.29864" height="2.5496199" x="494.32562" y="-498.82101" name="E" id="0:209622"/>
+                    <Ellipse width="3.2116899" height="1.48255" x="191.07796" y="54.055981" name="E" id="0:209623"/>
+                    <Ellipse width="2.7049" height="1.9349101" x="-153.46202" y="89.234627" name="E" id="0:209624"/>
+                    <Ellipse width="2.2217801" height="2.78122" x="-102.16436" y="-66.579201" name="E" id="0:209625"/>
+                    <Ellipse width="1.2561001" height="2.6853399" x="-20.156931" y="-285.92899" name="E" id="0:209626"/>
+                    <Ellipse width="3.0325601" height="3.0719399" x="-80.085037" y="-346.06543" name="E" id="0:209627"/>
+                    <Ellipse width="2.3357301" height="1.45698" x="-713.36469" y="-74.953072" name="E" id="0:209628"/>
+                    <Ellipse width="1.42011" height="2.26072" x="19.5096" y="-495.97186" name="E" id="0:209629"/>
+                    <Ellipse width="2.7274499" height="1.39738" x="448.28204" y="299.84698" name="E" id="0:209630"/>
+                    <Ellipse width="2.4275601" height="1.33024" x="7.5342002" y="-131.90836" name="E" id="0:209631"/>
+                    <Ellipse width="3.48208" height="1.52685" x="685.57458" y="535.81415" name="E" id="0:209632"/>
+                    <Ellipse width="2.957" height="3.1559701" x="-588.08197" y="520.26636" name="E" id="0:209633"/>
+                    <Ellipse width="2.3804901" height="3.49593" x="798.79913" y="-361.67957" name="E" id="0:209634"/>
+                    <Ellipse width="3.0921199" height="3.4333999" x="-834.20886" y="-161.03081" name="E" id="0:209635"/>
+                    <Ellipse width="3.0148301" height="1.58104" x="761.3515" y="-243.008" name="E" id="0:209636"/>
+                    <Ellipse width="3.1575" height="1.54457" x="4.25843" y="453.50043" name="E" id="0:209637"/>
+                    <Ellipse width="1.69998" height="1.83088" x="11.53339" y="-195.39629" name="E" id="0:209638"/>
+                    <Ellipse width="1.2884001" height="1.63703" x="-650.43964" y="471.31607" name="E" id="0:209639"/>
+                    <Ellipse width="2.8312299" height="3.34899" x="-636.01526" y="307.65887" name="E" id="0:209640"/>
+                    <Ellipse width="1.47619" height="2.4737301" x="261.73187" y="-151.43854" name="E" id="0:209641"/>
+                    <Fill name="Fill" id="0:209642">
+                        <SolidColor colorValue="59F2ECDE" name="C" id="0:209643"/>
+                    </Fill>
+                </Shape>
+                <Solo activeComponentId="3:90702" name="Paper" id="3:90701">
+                    <Node x="960" y="540" name="Blue" id="3:90702">
+                        <Image assetId="3:9944" opacity="0.16078" name="ScreenTile" id="0:209644">
+                            <Mesh name="Mesh" triangleIndexBytes="AAECAAID" id="0:209645">
+                                <MeshVertex u="-4.8593798" v="-3.21875" x="-1260" y="-840" id="0:209646"/>
+                                <MeshVertex u="4.9843798" v="-3.21875" x="1260" y="-840" id="0:209647"/>
+                                <MeshVertex u="4.9843798" v="3.34375" x="1260" y="840" id="0:209648"/>
+                                <MeshVertex u="-4.8593798" v="3.34375" x="-1260" y="840" id="0:209649"/>
+                            </Mesh>
+                        </Image>
+                        <Image assetId="3:9946" name="PaperGrain" id="0:209650">
+                            <Mesh name="Mesh" triangleIndexBytes="AAECAAID" id="0:209651">
+                                <MeshVertex u="-3.4375" v="-2.125" x="-1260" y="-840" id="0:209652"/>
+                                <MeshVertex u="4.4375" v="-2.125" x="1260" y="-840" id="0:209653"/>
+                                <MeshVertex u="4.4375" v="3.125" x="1260" y="840" id="0:209654"/>
+                                <MeshVertex u="-3.4375" v="3.125" x="-1260" y="840" id="0:209655"/>
+                            </Mesh>
+                        </Image>
+                    </Node>
+                    <Node x="960" y="540" name="Red" id="3:90703">
+                        <Image assetId="3:9945" opacity="0.16078" name="ScreenTile" id="0:209656">
+                            <Mesh name="Mesh" triangleIndexBytes="AAECAAID" id="0:209657">
+                                <MeshVertex u="-4.8593798" v="-3.21875" x="-1260" y="-840" id="0:209658"/>
+                                <MeshVertex u="4.9843798" v="-3.21875" x="1260" y="-840" id="0:209659"/>
+                                <MeshVertex u="4.9843798" v="3.34375" x="1260" y="840" id="0:209660"/>
+                                <MeshVertex u="-4.8593798" v="3.34375" x="-1260" y="840" id="0:209661"/>
+                            </Mesh>
+                        </Image>
+                        <Image assetId="3:9947" name="PaperGrain" id="0:209662">
+                            <Mesh name="Mesh" triangleIndexBytes="AAECAAID" id="0:209663">
+                                <MeshVertex u="-3.4375" v="-2.125" x="-1260" y="-840" id="0:209664"/>
+                                <MeshVertex u="4.4375" v="-2.125" x="1260" y="-840" id="0:209665"/>
+                                <MeshVertex u="4.4375" v="3.125" x="1260" y="840" id="0:209666"/>
+                                <MeshVertex u="-3.4375" v="3.125" x="-1260" y="840" id="0:209667"/>
+                            </Mesh>
+                        </Image>
+                    </Node>
+                    <Node name="Off" id="3:90704"/>
+                </Solo>
+                <ClippingShape sourceId="3:6609" name="Clip" id="3:80302"/>
+            </Node>
+            <Node name="Tint" id="3:6603">
+                <Node x="960" y="540" name="Blue" id="3:6604">
+                    <DataBindContext sourcePathIds="3:500-3:831" propertyKey="18" direction="true" id="0:209668"/>
+                </Node>
+                <Node x="960" y="540" name="Red" id="3:6605">
+                    <DataBindContext sourcePathIds="3:500-3:832" propertyKey="18" direction="true" id="0:209669"/>
+                </Node>
+            </Node>
+            <DataBindContext sourcePathIds="3:500-3:833" propertyKey="18" direction="true" id="0:208784"/>
+        </Node>
+        <StateMachine name="Print" id="3:6890">
+            <StateMachineLayer name="Print" id="3:6671">
+                <AnyState x="-160" y="-160" id="0:209670"/>
+                <ExitState x="-160" y="260" id="0:209671"/>
+                <EntryState x="-160" id="0:209672">
+                    <StateTransition stateToId="3:6662" id="0:209673"/>
+                </EntryState>
+                <AnimationState animationId="3:6651" x="160" id="3:6661">
+                    <StateTransition stateToId="3:6663" id="0:209674">
+                        <TransitionViewModelCondition id="0:209675">
+                            <TransitionPropertyViewModelComparator id="0:209676">
+                                <BindablePropertyEnum id="0:209677">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209678"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:601" id="0:209679"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6663" id="0:209680">
+                        <TransitionViewModelCondition id="0:209681">
+                            <TransitionPropertyViewModelComparator id="0:209682">
+                                <BindablePropertyEnum id="0:209683">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209684"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:605" id="0:209685"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6668" id="0:209686">
+                        <TransitionViewModelCondition id="0:209687">
+                            <TransitionPropertyViewModelComparator id="0:209688">
+                                <BindablePropertyEnum id="0:209689">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209690"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:606" id="0:209691"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6666" duration="180" interpolationType="cubic" id="0:209692">
+                        <TransitionViewModelCondition id="0:209694">
+                            <TransitionPropertyViewModelComparator id="0:209695">
+                                <BindablePropertyEnum id="0:209696">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209697"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:604" id="0:209698"/>
+                        </TransitionViewModelCondition>
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:209693"/>
+                    </StateTransition>
+                </AnimationState>
+                <AnimationState animationId="3:6652" x="400" y="-160" id="3:6662">
+                    <StateTransition stateToId="3:6668" id="0:209699">
+                        <TransitionViewModelCondition id="0:209700">
+                            <TransitionPropertyViewModelComparator id="0:209701">
+                                <BindablePropertyEnum id="0:209702">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209703"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:606" id="0:209704"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6666" duration="180" interpolationType="cubic" id="0:209705">
+                        <TransitionViewModelCondition id="0:209707">
+                            <TransitionPropertyViewModelComparator id="0:209708">
+                                <BindablePropertyEnum id="0:209709">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209710"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:604" id="0:209711"/>
+                        </TransitionViewModelCondition>
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:209706"/>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6669" id="0:209712">
+                        <TransitionViewModelCondition id="0:209713">
+                            <TransitionPropertyViewModelComparator id="0:209714">
+                                <BindablePropertyEnum id="0:209715">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209716"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:603" id="0:209717"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6664" id="0:209718">
+                        <TransitionViewModelCondition id="0:209719">
+                            <TransitionPropertyViewModelComparator id="0:209720">
+                                <BindablePropertyEnum id="0:209721">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209722"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:602" id="0:209723"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                </AnimationState>
+                <AnimationState animationId="3:6653" x="400" id="3:6663">
+                    <StateTransition stateToId="3:6662" enableExitTime="true" exitTimeIsPercetange="true" exitTime="100" id="0:209724"/>
+                    <StateTransition stateToId="3:6668" id="0:209725">
+                        <TransitionViewModelCondition id="0:209726">
+                            <TransitionPropertyViewModelComparator id="0:209727">
+                                <BindablePropertyEnum id="0:209728">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209729"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:606" id="0:209730"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6666" duration="180" interpolationType="cubic" id="0:209731">
+                        <TransitionViewModelCondition id="0:209733">
+                            <TransitionPropertyViewModelComparator id="0:209734">
+                                <BindablePropertyEnum id="0:209735">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209736"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:604" id="0:209737"/>
+                        </TransitionViewModelCondition>
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:209732"/>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6669" id="0:209738">
+                        <TransitionViewModelCondition id="0:209739">
+                            <TransitionPropertyViewModelComparator id="0:209740">
+                                <BindablePropertyEnum id="0:209741">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209742"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:603" id="0:209743"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6664" id="0:209744">
+                        <TransitionViewModelCondition id="0:209745">
+                            <TransitionPropertyViewModelComparator id="0:209746">
+                                <BindablePropertyEnum id="0:209747">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209748"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:602" id="0:209749"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                </AnimationState>
+                <AnimationState animationId="3:6654" x="640" y="-160" id="3:6664">
+                    <StateTransition stateToId="3:6661" enableExitTime="true" exitTimeIsPercetange="true" exitTime="100" id="0:209750"/>
+                </AnimationState>
+                <AnimationState animationId="3:6655" x="640" y="-320" id="3:6665">
+                    <StateTransition stateToId="3:6661" enableExitTime="true" exitTimeIsPercetange="true" exitTime="100" id="0:209751"/>
+                </AnimationState>
+                <AnimationState animationId="3:6656" x="640" id="3:6666">
+                    <StateTransition stateToId="3:6663" id="0:209752">
+                        <TransitionViewModelCondition id="0:209753">
+                            <TransitionPropertyViewModelComparator id="0:209754">
+                                <BindablePropertyEnum id="0:209755">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209756"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:601" id="0:209757"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6663" id="0:209758">
+                        <TransitionViewModelCondition id="0:209759">
+                            <TransitionPropertyViewModelComparator id="0:209760">
+                                <BindablePropertyEnum id="0:209761">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209762"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:605" id="0:209763"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6668" id="0:209764">
+                        <TransitionViewModelCondition id="0:209765">
+                            <TransitionPropertyViewModelComparator id="0:209766">
+                                <BindablePropertyEnum id="0:209767">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209768"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:606" id="0:209769"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6661" duration="320" interpolationType="cubic" id="0:209770">
+                        <TransitionViewModelCondition id="0:209772">
+                            <TransitionPropertyViewModelComparator id="0:209773">
+                                <BindablePropertyEnum id="0:209774">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209775"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:603" id="0:209776"/>
+                        </TransitionViewModelCondition>
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:209771"/>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6661" duration="320" interpolationType="cubic" id="0:209777">
+                        <TransitionViewModelCondition id="0:209779">
+                            <TransitionPropertyViewModelComparator id="0:209780">
+                                <BindablePropertyEnum id="0:209781">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209782"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:602" id="0:209783"/>
+                        </TransitionViewModelCondition>
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:209778"/>
+                    </StateTransition>
+                </AnimationState>
+                <AnimationState animationId="3:6657" x="880" y="160" id="3:6667">
+                    <StateTransition stateToId="3:6663" id="0:209816">
+                        <TransitionViewModelCondition id="0:209817">
+                            <TransitionPropertyViewModelComparator id="0:209818">
+                                <BindablePropertyEnum id="0:209819">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209820"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:601" id="0:209821"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6663" id="0:209822">
+                        <TransitionViewModelCondition id="0:209823">
+                            <TransitionPropertyViewModelComparator id="0:209824">
+                                <BindablePropertyEnum id="0:209825">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209826"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:605" id="0:209827"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6666" duration="180" interpolationType="cubic" id="0:209828">
+                        <TransitionViewModelCondition id="0:209830">
+                            <TransitionPropertyViewModelComparator id="0:209831">
+                                <BindablePropertyEnum id="0:209832">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209833"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:604" id="0:209834"/>
+                        </TransitionViewModelCondition>
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:209829"/>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6670" id="0:209835">
+                        <TransitionViewModelCondition id="0:209836">
+                            <TransitionPropertyViewModelComparator id="0:209837">
+                                <BindablePropertyEnum id="0:209838">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209839"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:603" id="0:209840"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6665" id="0:209841">
+                        <TransitionViewModelCondition id="0:209842">
+                            <TransitionPropertyViewModelComparator id="0:209843">
+                                <BindablePropertyEnum id="0:209844">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209845"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:602" id="0:209846"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                </AnimationState>
+                <AnimationState animationId="3:6658" x="640" y="160" id="3:6668">
+                    <StateTransition stateToId="3:6667" enableExitTime="true" exitTimeIsPercetange="true" exitTime="100" id="0:209784"/>
+                    <StateTransition stateToId="3:6663" id="0:209785">
+                        <TransitionViewModelCondition id="0:209786">
+                            <TransitionPropertyViewModelComparator id="0:209787">
+                                <BindablePropertyEnum id="0:209788">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209789"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:601" id="0:209790"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6663" id="0:209791">
+                        <TransitionViewModelCondition id="0:209792">
+                            <TransitionPropertyViewModelComparator id="0:209793">
+                                <BindablePropertyEnum id="0:209794">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209795"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:605" id="0:209796"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6666" duration="180" interpolationType="cubic" id="0:209797">
+                        <TransitionViewModelCondition id="0:209799">
+                            <TransitionPropertyViewModelComparator id="0:209800">
+                                <BindablePropertyEnum id="0:209801">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209802"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:604" id="0:209803"/>
+                        </TransitionViewModelCondition>
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:209798"/>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6670" id="0:209804">
+                        <TransitionViewModelCondition id="0:209805">
+                            <TransitionPropertyViewModelComparator id="0:209806">
+                                <BindablePropertyEnum id="0:209807">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209808"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:603" id="0:209809"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                    <StateTransition stateToId="3:6665" id="0:209810">
+                        <TransitionViewModelCondition id="0:209811">
+                            <TransitionPropertyViewModelComparator id="0:209812">
+                                <BindablePropertyEnum id="0:209813">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209814"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:602" id="0:209815"/>
+                        </TransitionViewModelCondition>
+                    </StateTransition>
+                </AnimationState>
+                <AnimationState animationId="3:6659" x="880" y="-160" id="3:6669">
+                    <StateTransition stateToId="3:6661" enableExitTime="true" exitTimeIsPercetange="true" exitTime="100" id="0:209847"/>
+                    <StateTransition stateToId="3:6666" duration="180" interpolationType="cubic" id="0:209848">
+                        <TransitionViewModelCondition id="0:209850">
+                            <TransitionPropertyViewModelComparator id="0:209851">
+                                <BindablePropertyEnum id="0:209852">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209853"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:604" id="0:209854"/>
+                        </TransitionViewModelCondition>
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:209849"/>
+                    </StateTransition>
+                </AnimationState>
+                <AnimationState animationId="3:6660" x="880" y="-320" id="3:6670">
+                    <StateTransition stateToId="3:6661" enableExitTime="true" exitTimeIsPercetange="true" exitTime="100" id="0:209855"/>
+                    <StateTransition stateToId="3:6666" duration="180" interpolationType="cubic" id="0:209856">
+                        <TransitionViewModelCondition id="0:209858">
+                            <TransitionPropertyViewModelComparator id="0:209859">
+                                <BindablePropertyEnum id="0:209860">
+                                    <DataBindContext sourcePathIds="3:500-3:501" propertyKey="637" id="0:209861"/>
+                                </BindablePropertyEnum>
+                            </TransitionPropertyViewModelComparator>
+                            <TransitionValueEnumComparator value="3:604" id="0:209862"/>
+                        </TransitionViewModelCondition>
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:209857"/>
+                    </StateTransition>
+                </AnimationState>
+            </StateMachineLayer>
+        </StateMachine>
+        <LinearAnimation duration="21" name="PrintOff" id="3:6651">
+            <KeyedObject objectId="3:80302" id="0:209863">
+                <KeyedProperty property="isVisible" id="0:209864">
+                    <KeyFrameBool value="true" id="0:209865"/>
+                    <KeyFrameBool frame="20" id="0:209866"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:90701" id="0:209867">
+                <KeyedProperty property="activeComponentId" id="0:209868">
+                    <KeyFrameId value="3:90702" id="0:209869"/>
+                    <KeyFrameId value="3:90704" frame="20" id="0:209870"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6604" id="0:209871">
+                <KeyedProperty property="opacity" id="0:209872">
+                    <KeyFrameDouble id="0:209873"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6605" id="0:209874">
+                <KeyedProperty property="opacity" id="0:209875">
+                    <KeyFrameDouble id="0:209876"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6607" id="0:209877">
+                <KeyedProperty property="opacity" id="0:209878">
+                    <KeyFrameDouble id="0:209879"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6606" id="0:209880">
+                <KeyedProperty property="opacity" id="0:209881">
+                    <KeyFrameDouble id="0:209882"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6608" id="0:209883">
+                <KeyedProperty property="x" id="0:209884">
+                    <KeyFrameDouble value="-1100" id="0:209885"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6602" id="0:209886">
+                <KeyedProperty property="opacity" id="0:209887">
+                    <KeyFrameDouble id="0:209888"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+        <LinearAnimation duration="240" loopValue="loop" name="PrintBlue" id="3:6652">
+            <KeyedObject objectId="3:80302" id="0:209889">
+                <KeyedProperty property="isVisible" id="0:209890">
+                    <KeyFrameBool id="0:209891"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:90701" id="0:209892">
+                <KeyedProperty property="activeComponentId" id="0:209893">
+                    <KeyFrameId value="3:90702" id="0:209894"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6604" id="0:209895">
+                <KeyedProperty property="opacity" id="0:209896">
+                    <KeyFrameDouble value="1" id="0:209897"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6605" id="0:209898">
+                <KeyedProperty property="opacity" id="0:209899">
+                    <KeyFrameDouble id="0:209900"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6607" id="0:209901">
+                <KeyedProperty property="opacity" id="0:209902">
+                    <KeyFrameDouble value="1" interpolationType="cubic" id="0:209903">
+                        <CubicEaseInterpolator x1="0.37" x2="0.63" id="0:209904"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="0.80000001" interpolationType="cubic" frame="120" id="0:209905">
+                        <CubicEaseInterpolator x1="0.37" x2="0.63" id="0:209906"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="1" interpolationType="linear" frame="240" id="0:209907"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6606" id="0:209908">
+                <KeyedProperty property="opacity" id="0:209909">
+                    <KeyFrameDouble id="0:209910"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6608" id="0:209911">
+                <KeyedProperty property="x" id="0:209912">
+                    <KeyFrameDouble value="-1100" id="0:209913"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6602" id="0:209914">
+                <KeyedProperty property="opacity" id="0:209915">
+                    <KeyFrameDouble value="1" id="0:209916"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+        <LinearAnimation duration="30" name="PrintBlueIn" id="3:6653">
+            <KeyedObject objectId="3:80302" id="0:209917">
+                <KeyedProperty property="isVisible" id="0:209918">
+                    <KeyFrameBool id="0:209919"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:90701" id="0:209920">
+                <KeyedProperty property="activeComponentId" id="0:209921">
+                    <KeyFrameId value="3:90702" id="0:209922"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6604" id="0:209923">
+                <KeyedProperty property="opacity" id="0:209924">
+                    <KeyFrameDouble interpolationType="cubic" id="0:209925">
+                        <CubicEaseInterpolator x1="0.16" y1="1" x2="0.30000001" id="0:209926"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="1" interpolationType="linear" frame="24" id="0:209927"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6605" id="0:209928">
+                <KeyedProperty property="opacity" id="0:209929">
+                    <KeyFrameDouble id="0:209930"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6607" id="0:209931">
+                <KeyedProperty property="opacity" id="0:209932">
+                    <KeyFrameDouble interpolationType="cubic" id="0:209933">
+                        <CubicEaseInterpolator x1="0.16" y1="1" x2="0.30000001" id="0:209934"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="1" interpolationType="linear" frame="30" id="0:209935"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6606" id="0:209936">
+                <KeyedProperty property="opacity" id="0:209937">
+                    <KeyFrameDouble id="0:209938"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6608" id="0:209939">
+                <KeyedProperty property="x" id="0:209940">
+                    <KeyFrameDouble value="-1100" id="0:209941"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6602" id="0:209942">
+                <KeyedProperty property="opacity" id="0:209943">
+                    <KeyFrameDouble value="1" id="0:209944"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+        <LinearAnimation duration="46" name="PrintWipe" id="3:6654">
+            <KeyedObject objectId="3:80302" id="0:209945">
+                <KeyedProperty property="isVisible" id="0:209946">
+                    <KeyFrameBool value="true" id="0:209947"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:90701" id="0:209948">
+                <KeyedProperty property="activeComponentId" id="0:209949">
+                    <KeyFrameId value="3:90702" id="0:209950"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6604" id="0:209951">
+                <KeyedProperty property="opacity" id="0:209952">
+                    <KeyFrameDouble value="1" id="0:209953"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6605" id="0:209954">
+                <KeyedProperty property="opacity" id="0:209955">
+                    <KeyFrameDouble id="0:209956"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6607" id="0:209957">
+                <KeyedProperty property="opacity" id="0:209958">
+                    <KeyFrameDouble value="1" id="0:209959"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6606" id="0:209960">
+                <KeyedProperty property="opacity" id="0:209961">
+                    <KeyFrameDouble id="0:209962"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6608" id="0:209963">
+                <KeyedProperty property="x" id="0:209964">
+                    <KeyFrameDouble value="-1100" interpolationType="cubic" id="0:209965">
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:209966"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="3300" interpolationType="linear" frame="44" id="0:209967"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6602" id="0:209968">
+                <KeyedProperty property="opacity" id="0:209969">
+                    <KeyFrameDouble value="1" id="0:209970"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+        <LinearAnimation duration="46" name="PrintWipeRed" id="3:6655">
+            <KeyedObject objectId="3:80302" id="0:209971">
+                <KeyedProperty property="isVisible" id="0:209972">
+                    <KeyFrameBool value="true" id="0:209973"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:90701" id="0:209974">
+                <KeyedProperty property="activeComponentId" id="0:209975">
+                    <KeyFrameId value="3:90703" id="0:209976"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6604" id="0:209977">
+                <KeyedProperty property="opacity" id="0:209978">
+                    <KeyFrameDouble id="0:209979"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6605" id="0:209980">
+                <KeyedProperty property="opacity" id="0:209981">
+                    <KeyFrameDouble value="1" id="0:209982"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6607" id="0:209983">
+                <KeyedProperty property="opacity" id="0:209984">
+                    <KeyFrameDouble value="1" id="0:209985"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6606" id="0:209986">
+                <KeyedProperty property="opacity" id="0:209987">
+                    <KeyFrameDouble id="0:209988"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6608" id="0:209989">
+                <KeyedProperty property="x" id="0:209990">
+                    <KeyFrameDouble value="-1100" interpolationType="cubic" id="0:209991">
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:209992"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="3300" interpolationType="linear" frame="44" id="0:209993"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6602" id="0:209994">
+                <KeyedProperty property="opacity" id="0:209995">
+                    <KeyFrameDouble value="1" id="0:209996"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+        <LinearAnimation duration="13" name="PrintPause" id="3:6656">
+            <KeyedObject objectId="3:80302" id="0:209997">
+                <KeyedProperty property="isVisible" id="0:209998">
+                    <KeyFrameBool value="true" id="0:209999"/>
+                    <KeyFrameBool frame="12" id="0:210000"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:90701" id="0:210001">
+                <KeyedProperty property="activeComponentId" id="0:210002">
+                    <KeyFrameId value="3:90702" id="0:210003"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6604" id="0:210004">
+                <KeyedProperty property="opacity" id="0:210005">
+                    <KeyFrameDouble value="0.92000002" id="0:210006"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6605" id="0:210007">
+                <KeyedProperty property="opacity" id="0:210008">
+                    <KeyFrameDouble id="0:210009"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6607" id="0:210010">
+                <KeyedProperty property="opacity" id="0:210011">
+                    <KeyFrameDouble value="0.69999999" id="0:210012"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6606" id="0:210013">
+                <KeyedProperty property="opacity" id="0:210014">
+                    <KeyFrameDouble value="1" id="0:210015"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6608" id="0:210016">
+                <KeyedProperty property="x" id="0:210017">
+                    <KeyFrameDouble value="-1100" id="0:210018"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6602" id="0:210019">
+                <KeyedProperty property="opacity" id="0:210020">
+                    <KeyFrameDouble value="1" id="0:210021"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+        <LinearAnimation duration="1" name="PrintRed" id="3:6657">
+            <KeyedObject objectId="3:80302" id="0:210022">
+                <KeyedProperty property="isVisible" id="0:210023">
+                    <KeyFrameBool id="0:210024"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:90701" id="0:210025">
+                <KeyedProperty property="activeComponentId" id="0:210026">
+                    <KeyFrameId value="3:90703" id="0:210027"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6604" id="0:210028">
+                <KeyedProperty property="opacity" id="0:210029">
+                    <KeyFrameDouble id="0:210030"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6605" id="0:210031">
+                <KeyedProperty property="opacity" id="0:210032">
+                    <KeyFrameDouble value="1" id="0:210033"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6607" id="0:210034">
+                <KeyedProperty property="opacity" id="0:210035">
+                    <KeyFrameDouble value="1" id="0:210036"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6606" id="0:210037">
+                <KeyedProperty property="opacity" id="0:210038">
+                    <KeyFrameDouble id="0:210039"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6608" id="0:210040">
+                <KeyedProperty property="x" id="0:210041">
+                    <KeyFrameDouble value="-1100" id="0:210042"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6602" id="0:210043">
+                <KeyedProperty property="opacity" id="0:210044">
+                    <KeyFrameDouble value="1" id="0:210045"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+        <LinearAnimation duration="50" name="PrintRedIn" id="3:6658">
+            <KeyedObject objectId="3:80302" id="0:210046">
+                <KeyedProperty property="isVisible" id="0:210047">
+                    <KeyFrameBool id="0:210048"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:90701" id="0:210049">
+                <KeyedProperty property="activeComponentId" id="0:210050">
+                    <KeyFrameId value="3:90703" id="0:210051"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6604" id="0:210052">
+                <KeyedProperty property="opacity" id="0:210053">
+                    <KeyFrameDouble id="0:210054"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6605" id="0:210055">
+                <KeyedProperty property="opacity" id="0:210056">
+                    <KeyFrameDouble interpolationType="linear" id="0:210057"/>
+                    <KeyFrameDouble value="1" frame="3" id="0:210058"/>
+                    <KeyFrameDouble value="0.2" frame="5" id="0:210059"/>
+                    <KeyFrameDouble value="1" frame="8" id="0:210060"/>
+                    <KeyFrameDouble value="0.5" frame="12" id="0:210061"/>
+                    <KeyFrameDouble value="1" interpolationType="linear" frame="14" id="0:210062"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6607" id="0:210063">
+                <KeyedProperty property="opacity" id="0:210064">
+                    <KeyFrameDouble value="1" id="0:210065"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6606" id="0:210066">
+                <KeyedProperty property="opacity" id="0:210067">
+                    <KeyFrameDouble id="0:210068"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6608" id="0:210069">
+                <KeyedProperty property="x" id="0:210070">
+                    <KeyFrameDouble value="-1100" id="0:210071"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6602" id="0:210072">
+                <KeyedProperty property="opacity" id="0:210073">
+                    <KeyFrameDouble value="1" id="0:210074"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+        <LinearAnimation duration="32" name="PrintLaunch" id="3:6659">
+            <KeyedObject objectId="3:80302" id="0:210075">
+                <KeyedProperty property="isVisible" id="0:210076">
+                    <KeyFrameBool value="true" id="0:210077"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:90701" id="0:210078">
+                <KeyedProperty property="activeComponentId" id="0:210079">
+                    <KeyFrameId value="3:90702" id="0:210080"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6604" id="0:210081">
+                <KeyedProperty property="opacity" id="0:210082">
+                    <KeyFrameDouble value="1" id="0:210083"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6605" id="0:210084">
+                <KeyedProperty property="opacity" id="0:210085">
+                    <KeyFrameDouble id="0:210086"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6607" id="0:210087">
+                <KeyedProperty property="opacity" id="0:210088">
+                    <KeyFrameDouble value="1" id="0:210089"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6606" id="0:210090">
+                <KeyedProperty property="opacity" id="0:210091">
+                    <KeyFrameDouble id="0:210092"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6608" id="0:210093">
+                <KeyedProperty property="x" id="0:210094">
+                    <KeyFrameDouble value="-680" interpolationType="cubic" id="0:210095">
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:210096"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="3300" interpolationType="linear" frame="30" id="0:210097"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6602" id="0:210098">
+                <KeyedProperty property="opacity" id="0:210099">
+                    <KeyFrameDouble value="1" id="0:210100"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+        <LinearAnimation duration="32" name="PrintLaunchRed" id="3:6660">
+            <KeyedObject objectId="3:80302" id="0:210101">
+                <KeyedProperty property="isVisible" id="0:210102">
+                    <KeyFrameBool value="true" id="0:210103"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:90701" id="0:210104">
+                <KeyedProperty property="activeComponentId" id="0:210105">
+                    <KeyFrameId value="3:90703" id="0:210106"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6604" id="0:210107">
+                <KeyedProperty property="opacity" id="0:210108">
+                    <KeyFrameDouble id="0:210109"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6605" id="0:210110">
+                <KeyedProperty property="opacity" id="0:210111">
+                    <KeyFrameDouble value="1" id="0:210112"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6607" id="0:210113">
+                <KeyedProperty property="opacity" id="0:210114">
+                    <KeyFrameDouble value="1" id="0:210115"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6606" id="0:210116">
+                <KeyedProperty property="opacity" id="0:210117">
+                    <KeyFrameDouble id="0:210118"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6608" id="0:210119">
+                <KeyedProperty property="x" id="0:210120">
+                    <KeyFrameDouble value="-680" interpolationType="cubic" id="0:210121">
+                        <CubicEaseInterpolator x1="0.44999999" x2="0.55000001" id="0:210122"/>
+                    </KeyFrameDouble>
+                    <KeyFrameDouble value="3300" interpolationType="linear" frame="30" id="0:210123"/>
+                </KeyedProperty>
+            </KeyedObject>
+            <KeyedObject objectId="3:6602" id="0:210124">
+                <KeyedProperty property="opacity" id="0:210125">
+                    <KeyFrameDouble value="1" id="0:210126"/>
+                </KeyedProperty>
+            </KeyedObject>
+        </LinearAnimation>
+    </Artboard>
+    <ComponentAsset artboardId="3:6500" name="FrameShell" id="0:208783"/>
+    <ComponentAsset artboardId="3:6600" name="PrintScreen" id="0:210127"/>
+</Rive>

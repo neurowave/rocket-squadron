@@ -1,0 +1,61 @@
+<Rive version="1" kind="fragment">
+    <ScriptAsset file="src/game/ai_patterns.as" isModule="true" codeFileId="0:3049465" folderPath="src/game" name="ai_patterns" id="0:2796838"/>
+    <ScriptAsset file="src/game/ai_types.as" isModule="true" codeFileId="0:3107118" folderPath="src/game" name="ai_types" id="0:2796839"/>
+    <ScriptAsset file="src/game/boss_eye.as" isModule="true" codeFileId="0:3146586" folderPath="src/game" name="boss_eye" id="0:2796840"/>
+    <ScriptAsset file="src/game/boss_stormcrow.as" isModule="true" codeFileId="0:3185345" folderPath="src/game" name="boss_stormcrow" id="0:2796841"/>
+    <ScriptAsset file="src/game/camera.as" isModule="true" codeFileId="0:3261602" folderPath="src/game" name="camera" id="0:2796842"/>
+    <ScriptAsset file="src/game/core_autopilot.as" isModule="true" codeFileId="0:3365373" folderPath="src/game" name="core_autopilot" id="0:2796843"/>
+    <ScriptAsset file="src/game/core_hud.as" isModule="true" codeFileId="0:3386200" folderPath="src/game" name="core_hud" id="0:2796844"/>
+    <ScriptAsset file="src/game/core_hudlive.as" isModule="true" codeFileId="0:3402534" folderPath="src/game" name="core_hudlive" id="0:2796845"/>
+    <ScriptAsset file="src/game/core_mode.as" isModule="true" codeFileId="0:3407087" folderPath="src/game" name="core_mode" id="0:2796846"/>
+    <ScriptAsset file="src/game/core_pages.as" isModule="true" codeFileId="0:3417693" folderPath="src/game" name="core_pages" id="0:2796847"/>
+    <ScriptAsset file="src/game/core_print.as" isModule="true" codeFileId="0:3456145" folderPath="src/game" name="core_print" id="0:2796848"/>
+    <ScriptAsset file="src/game/core_quality.as" isModule="true" codeFileId="0:3458346" folderPath="src/game" name="core_quality" id="0:2796849"/>
+    <ScriptAsset file="src/game/core_rings.as" isModule="true" codeFileId="0:3470689" folderPath="src/game" name="core_rings" id="0:2796850"/>
+    <ScriptAsset file="src/game/core_training.as" isModule="true" codeFileId="0:3479801" folderPath="src/game" name="core_training" id="0:2796851"/>
+    <ScriptAsset file="src/game/core_wake.as" isModule="true" codeFileId="0:3544341" folderPath="src/game" name="core_wake" id="0:2796852"/>
+    <ScriptAsset file="src/game/enemies.as" isModule="true" codeFileId="0:3549551" folderPath="src/game" name="enemies" id="0:2796853"/>
+    <ScriptAsset file="src/game/events.as" isModule="true" codeFileId="0:3584392" folderPath="src/game" name="events" id="0:2796854"/>
+    <ScriptAsset file="src/game/fx.as" isModule="true" codeFileId="0:3636376" folderPath="src/game" name="fx" id="0:2796855"/>
+    <ScriptAsset file="src/game/input.as" isModule="true" codeFileId="0:3699986" folderPath="src/game" name="input" id="0:2796856"/>
+    <ScriptAsset file="src/game/models.as" isModule="true" codeFileId="0:3720050" folderPath="src/game" name="models" id="0:2796857"/>
+    <ScriptAsset file="src/game/player.as" isModule="true" codeFileId="0:3785936" folderPath="src/game" name="player" id="0:2796858"/>
+    <ScriptAsset file="src/game/popups.as" isModule="true" codeFileId="0:3849036" folderPath="src/game" name="popups" id="0:2796859"/>
+    <ScriptAsset file="src/game/replay_track.as" isModule="true" codeFileId="0:3914233" folderPath="src/game" name="replay_track" id="0:2796860"/>
+    <ScriptAsset file="src/game/scoring.as" isModule="true" codeFileId="0:3914524" folderPath="src/game" name="scoring" id="0:2796861"/>
+    <ScriptAsset file="src/game/sfx.as" isModule="true" codeFileId="0:3941231" folderPath="src/game" name="sfx" id="0:2796862"/>
+    <ScriptAsset file="src/game/types.as" isModule="true" codeFileId="0:4006044" folderPath="src/game" name="types" id="0:2796863"/>
+    <ScriptAsset file="src/game/vm.as" isModule="true" codeFileId="0:4010341" folderPath="src/game" name="vm" id="0:2796864"/>
+    <ScriptAsset file="src/game/weapons.as" isModule="true" codeFileId="0:4028310" folderPath="src/game" name="weapons" id="0:2796865"/>
+    <ScriptAsset file="src/game/wingmen.as" isModule="true" codeFileId="0:4062163" folderPath="src/game" name="wingmen" id="0:2796866"/>
+    <ScriptAsset file="src/lib/compat.as" isModule="true" codeFileId="0:4205142" folderPath="src/lib" name="compat" id="0:2796867"/>
+    <ScriptAsset file="src/lib/gpu.as" isModule="true" codeFileId="0:4213570" folderPath="src/lib" name="gpu" id="0:2796868"/>
+    <ScriptAsset file="src/lib/mathx.as" isModule="true" codeFileId="0:4222673" folderPath="src/lib" name="mathx" id="0:2796869"/>
+    <ScriptAsset file="src/lib/meshgen.as" isModule="true" codeFileId="0:4229195" folderPath="src/lib" name="meshgen" id="0:2796870"/>
+    <ScriptAsset file="src/render/image_names.as" isModule="true" codeFileId="0:4264723" folderPath="src/render" name="image_names" id="0:2796871"/>
+    <ScriptAsset file="src/render/renderer.as" isModule="true" codeFileId="0:4269004" folderPath="src/render" name="renderer" id="0:2796872"/>
+    <ScriptAsset file="src/world/ambient.as" isModule="true" codeFileId="0:4434652" folderPath="src/world" name="ambient" id="0:2796873"/>
+    <ScriptAsset file="src/world/arches.as" isModule="true" codeFileId="0:4445528" folderPath="src/world" name="arches" id="0:2796874"/>
+    <ScriptAsset file="src/world/cliffs.as" isModule="true" codeFileId="0:4495189" folderPath="src/world" name="cliffs" id="0:2796875"/>
+    <ScriptAsset file="src/world/collide.as" isModule="true" codeFileId="0:4583175" folderPath="src/world" name="collide" id="0:2796876"/>
+    <ScriptAsset file="src/world/geo.as" isModule="true" codeFileId="0:4598148" folderPath="src/world" name="geo" id="0:2796877"/>
+    <ScriptAsset file="src/world/level.as" isModule="true" codeFileId="0:4669729" folderPath="src/world" name="level" id="0:2796878"/>
+    <ScriptAsset file="src/world/life.as" isModule="true" codeFileId="0:4710467" folderPath="src/world" name="life" id="0:2796879"/>
+    <ScriptAsset file="src/world/palette.as" isModule="true" codeFileId="0:4719823" folderPath="src/world" name="palette" id="0:2796880"/>
+    <ScriptAsset file="src/world/props.as" isModule="true" codeFileId="0:4724192" folderPath="src/world" name="props" id="0:2796881"/>
+    <ScriptAsset file="src/world/scenery.as" isModule="true" codeFileId="0:4758235" folderPath="src/world" name="scenery" id="0:2796882"/>
+    <ScriptAsset file="src/world/terrain.as" isModule="true" codeFileId="0:4877223" folderPath="src/world" name="terrain" id="0:2796883"/>
+    <ScriptAsset file="src/world/track.as" isModule="true" codeFileId="0:4944242" folderPath="src/world" name="track" id="0:2796884"/>
+    <ShaderAsset file="src_render_billboard.wgsl" codeFileId="0:4951584" name="src/render/billboard" id="0:2796885"/>
+    <ShaderAsset file="src_render_blit.wgsl" codeFileId="0:4956217" name="src/render/blit" id="0:2796886"/>
+    <ShaderAsset file="src_render_bloom.wgsl" codeFileId="0:4956914" name="src/render/bloom" id="0:2796887"/>
+    <ShaderAsset file="src_render_outline.wgsl" codeFileId="0:4960831" name="src/render/outline" id="0:2796888"/>
+    <ShaderAsset file="src_render_particle.wgsl" codeFileId="0:4967804" name="src/render/particle" id="0:2796889"/>
+    <ShaderAsset file="src_render_portal.wgsl" codeFileId="0:4983245" name="src/render/portal" id="0:2796890"/>
+    <ShaderAsset file="src_render_post.wgsl" codeFileId="0:4989444" name="src/render/post" id="0:2796891"/>
+    <ShaderAsset file="src_render_sky.wgsl" codeFileId="0:5034209" name="src/render/sky" id="0:2796892"/>
+    <ShaderAsset file="src_render_toon.wgsl" codeFileId="0:5053938" name="src/render/toon" id="0:2796893"/>
+    <ShaderAsset file="src_render_trail.wgsl" codeFileId="0:5075320" name="src/render/trail" id="0:2796894"/>
+    <ShaderAsset file="src_render_visor.wgsl" codeFileId="0:5084121" name="src/render/visor" id="0:2796895"/>
+    <ShaderAsset file="src_render_water.wgsl" codeFileId="0:5093318" name="src/render/water" id="0:2796896"/>
+</Rive>

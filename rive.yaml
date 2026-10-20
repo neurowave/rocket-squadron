@@ -1,0 +1,12 @@
+name: rocket-squadron
+main: Main
+scripting: wasm
+# tools/ holds the asset generators (audio, font subsets); not part of the game build
+exclude:
+  - tools
+  - licenses
+  - build
+  - .venv
+logs:
+  file: build/rive.log
+  problems: build/problems.log

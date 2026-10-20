@@ -1,0 +1,6 @@
+<Rive version="1" kind="fragment">
+    <FontAsset file="Tomorrow.ttf" name="Tomorrow" id="1:900"/>
+    <FontAsset file="RobotoFlex.ttf" name="RobotoFlex" id="1:901"/>
+    <FontAsset file="Montserrat.ttf" name="Montserrat" id="1:902"/>
+    <ScriptAsset file="src/src_game.as" serializedImplementedMethods="1381241" scriptProtocolValue="layout" codeFileId="0:438478" folderPath="src" name="src/game" id="1:950"/>
+</Rive>
